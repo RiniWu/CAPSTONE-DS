@@ -10,7 +10,7 @@
 | `retail_inventory_ml_apl` | Snapshot stok retail |
 | `flipkart_com-ecommerce_sample` | Nama, gambar, harga, dan diskon produk kaos kaki |
 
-Ketiganya adalah dataset publik. Periksa lisensi masing-masing di halaman Kaggle sebelum publikasi.
+Ketiganya adalah dataset publik.
 
 ## Struktur Folder
 
