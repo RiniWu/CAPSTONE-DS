@@ -1,0 +1,6 @@
+intent,deskripsi,sumber_jawaban,contoh
+cek_stok,Menanyakan jumlah/ketersediaan stok barang atau kategori,"stok_barang, barang, v_stok_ringkas",stok {barang} di {gudang} berapa
+status_selisih,Menanyakan selisih dan status tindak lanjutnya,"selisih_stok, tindak_lanjut_selisih, perbandingan_stok",selisih barang {kode} sudah ditindaklanjuti belum
+riwayat,Menanyakan riwayat aktivitas (commit) barang/gudang/pengguna,"riwayat_aktivitas, item_laporan",siapa yang terakhir mengubah stok {barang}
+prosedur_stok,Menanyakan cara/prosedur memakai aplikasi (dijawab lewat RAG),korpus panduan buatan tim (belum dibuat),bagaimana cara mencatat barang masuk
+di_luar_konteks,"Pertanyaan di luar stok; ditolak sopan, Gemini tidak dipanggil",-,cuaca hari ini bagaimana

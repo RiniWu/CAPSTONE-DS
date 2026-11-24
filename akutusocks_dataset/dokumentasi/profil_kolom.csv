@@ -1,0 +1,153 @@
+tabel,kolom,tipe_pandas,jumlah_baris,jumlah_kosong,contoh_nilai
+gudang,id_gudang,int64,3,0,1
+gudang,nama_gudang,object,3,0,Gudang A
+kategori_barang,id_kategori,int64,28,0,1
+kategori_barang,nama_kategori,object,28,0,Femme Footwear Boot Collection
+kategori_barang,deskripsi,object,28,0,Kategori dari dataset retail (Femme Footwear Boot Collection
+kategori_barang,divisi,object,28,0,Femme Footwear
+pengguna,id_pengguna,int64,7,0,1
+pengguna,nama_lengkap,object,7,0,Dewi Lestari
+pengguna,email,object,7,0,owner@contoh.test
+pengguna,password_hash,object,7,1,$2b$10$f9KFiy35WTLzsp3oVIA6hOKQhmw2Kb0QnNMnAQ/PUc4xPXUu/78HS
+pengguna,no_telepon,int64,7,0,83500950330
+pengguna,alamat,object,7,0,Samarinda (alamat contoh)
+pengguna,status_akun,object,7,0,aktif
+pengguna,role,object,7,0,owner
+pengguna,wajib_ganti_password,bool,7,0,False
+pengguna,shift_kerja,object,7,1,Pagi
+pengguna,nama_usaha,object,7,6,Toko Contoh (data contoh)
+pengguna,alamat_usaha,object,7,6,Samarinda (alamat contoh)
+pengguna,created_at,object,7,0,2025-05-02 09:00:00+07:00
+pengguna,updated_at,float64,7,7,
+token_aktivasi,id_token,int64,1,0,1
+token_aktivasi,id_pengguna,int64,1,0,7
+token_aktivasi,token_hash,object,1,0,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+token_aktivasi,kedaluwarsa_pada,object,1,0,2026-05-01 23:59:00+07:00
+token_aktivasi,dipakai_pada,float64,1,1,
+token_aktivasi,created_at,object,1,0,2026-04-24 10:00:00+07:00
+barang,kode_barang,object,300,0,FKS-SOCE7732ARDEF7UF
+barang,nama_barang,object,300,0,NBA Women's Solid Ankle Length Socks
+barang,id_kategori,int64,300,0,18
+barang,harga_beli,int64,300,0,42500
+barang,harga_jual,int64,300,0,85500
+barang,minimum_stok,int64,300,0,6
+barang,tipe_diskon,int64,300,0,1
+barang,diskon,int64,300,0,40
+barang,satuan,object,300,0,pasang
+barang,berat_gram,float64,300,233,350.0
+barang,keterangan,object,300,0,Data contoh. NBA Women's Solid Ankle Length Socks - Buy Mult
+barang,gambar,object,300,0,http://img5a.flixcart.com/image/sock/7/u/f/wa-03-2100-02-nba
+barang,sumber_data,object,300,0,flipkart_produk_asli+stok_penjualan_sintetis
+barang,created_at,object,300,0,2025-05-02 09:00:00+07:00
+barang,updated_at,float64,300,300,
+stok_barang,id_stok,int64,900,0,1
+stok_barang,kode_barang,object,900,0,FKS-SOCE7732ARDEF7UF
+stok_barang,id_gudang,int64,900,0,1
+stok_barang,jumlah_stok,int64,900,0,6
+stok_barang,letak_rak,object,900,0,A18-2
+stok_barang,tanggal_pengecekan_terakhir,object,900,128,2026-04-09
+transaksi_stok,id_transaksi,int64,2585,0,1
+transaksi_stok,id_pengguna,int64,2585,0,2
+transaksi_stok,jenis_transaksi,object,2585,0,masuk
+transaksi_stok,waktu_transaksi,object,2585,0,2025-06-01 07:31:00+07:00
+transaksi_stok,status_transaksi,object,2585,0,Selesai
+transaksi_stok,alasan,object,2585,0,Saldo awal pencatatan sistem (diturunkan dari snapshot inven
+transaksi_stok,alasan_pembatalan,float64,2585,2585,
+detail_transaksi_stok,id_detail_transaksi,int64,23561,0,1
+detail_transaksi_stok,id_transaksi,int64,23561,0,1
+detail_transaksi_stok,kode_barang,object,23561,0,FKS-SOCE7732ARDEF7UF
+detail_transaksi_stok,id_gudang_asal,float64,23561,5312,3.0
+detail_transaksi_stok,id_gudang_tujuan,float64,23561,18249,1.0
+detail_transaksi_stok,jumlah,int64,23561,0,4
+detail_transaksi_stok,stok_target,float64,23561,23241,3.0
+detail_transaksi_stok,no_batch,float64,23561,23561,
+detail_transaksi_stok,catatan,float64,23561,23561,
+stock_opname,id_opname,object,0,0,
+stock_opname,id_gudang,object,0,0,
+stock_opname,id_pengguna,object,0,0,
+stock_opname,waktu_opname,object,0,0,
+stock_opname,status_opname,object,0,0,
+stock_opname,catatan,object,0,0,
+detail_stok_opname,id_detail_opname,object,0,0,
+detail_stok_opname,id_opname,object,0,0,
+detail_stok_opname,kode_barang,object,0,0,
+detail_stok_opname,stok_sistem,object,0,0,
+detail_stok_opname,stok_fisik,object,0,0,
+detail_stok_opname,jumlah_selisih,object,0,0,
+detail_stok_opname,keterangan,object,0,0,
+riwayat_aktivitas,id_riwayat,int64,23561,0,1
+riwayat_aktivitas,id_pengguna,int64,23561,0,2
+riwayat_aktivitas,id_transaksi,int64,23561,0,1
+riwayat_aktivitas,id_detail_opname,float64,23561,23561,
+riwayat_aktivitas,kode_barang,object,23561,0,FKS-SOCE7732ARDEF7UF
+riwayat_aktivitas,id_gudang,int64,23561,0,1
+riwayat_aktivitas,jenis_aktivitas,object,23561,0,masuk
+riwayat_aktivitas,waktu_aktivitas,object,23561,0,2025-06-01 07:31:00+07:00
+riwayat_aktivitas,jumlah_sebelum,int64,23561,0,0
+riwayat_aktivitas,jumlah_sesudah,int64,23561,0,4
+riwayat_aktivitas,jumlah_perubahan,int64,23561,0,4
+riwayat_aktivitas,alasan,object,23561,0,Saldo awal pencatatan sistem (diturunkan dari snapshot inven
+riwayat_aktivitas,id_riwayat_ref,float64,23561,23561,
+item_laporan,id_item_laporan,int64,23561,0,1
+item_laporan,id_riwayat,int64,23561,0,1
+item_laporan,status_item,object,23561,0,Diterima
+item_laporan,diperiksa_oleh,float64,23561,478,2.0
+item_laporan,diajukan_pada,object,23561,0,2025-06-01 07:31:00+07:00
+riwayat_validasi,id_riwayat_validasi,int64,23083,0,1
+riwayat_validasi,id_item_laporan,int64,23083,0,1
+riwayat_validasi,id_spv,int64,23083,0,2
+riwayat_validasi,status_sebelumnya,object,23083,0,Diajukan
+riwayat_validasi,status_baru,object,23083,0,Diterima
+riwayat_validasi,tanggal_validasi,object,23083,0,2025-06-01 09:15:00+07:00
+riwayat_validasi,catatan_validasi,float64,23083,23083,
+import_kasir,id_import,object,0,0,
+import_kasir,id_spv,object,0,0,
+import_kasir,nama_file,object,0,0,
+import_kasir,format_file,object,0,0,
+import_kasir,tanggal_import,object,0,0,
+import_kasir,keterangan,object,0,0,
+detail_import,id_detail_import,object,0,0,
+detail_import,id_import,object,0,0,
+detail_import,nomor_baris,object,0,0,
+detail_import,kode_barang_berkas,object,0,0,
+detail_import,nama_barang_berkas,object,0,0,
+detail_import,jumlah_berkas,object,0,0,
+detail_import,status_pencocokan,object,0,0,
+detail_import,alasan_gagal,object,0,0,
+perbandingan_stok,id_perbandingan_stok,object,0,0,
+perbandingan_stok,id_detail_import,object,0,0,
+perbandingan_stok,kode_barang,object,0,0,
+perbandingan_stok,jenis_sumber,object,0,0,
+perbandingan_stok,stok_website,object,0,0,
+perbandingan_stok,stok_pembanding,object,0,0,
+perbandingan_stok,selisih,object,0,0,
+perbandingan_stok,status_perbandingan,object,0,0,
+perbandingan_stok,tanggal_perbandingan,object,0,0,
+selisih_stok,id_selisih_stok,object,0,0,
+selisih_stok,id_perbandingan_stok,object,0,0,
+selisih_stok,id_detail_opname,object,0,0,
+selisih_stok,jenis_selisih,object,0,0,
+selisih_stok,status_kasus,object,0,0,
+selisih_stok,keterangan,object,0,0,
+selisih_stok,created_at,object,0,0,
+tindak_lanjut_selisih,id_tindak_lanjut,object,0,0,
+tindak_lanjut_selisih,id_selisih_stok,object,0,0,
+tindak_lanjut_selisih,id_pengguna,object,0,0,
+tindak_lanjut_selisih,jenis_tindakan,object,0,0,
+tindak_lanjut_selisih,tanggal_tindak_lanjut,object,0,0,
+tindak_lanjut_selisih,catatan,object,0,0,
+notifikasi,id_notifikasi,object,0,0,
+notifikasi,id_pengguna,object,0,0,
+notifikasi,jenis,object,0,0,
+notifikasi,judul,object,0,0,
+notifikasi,isi_pesan,object,0,0,
+notifikasi,dibaca,object,0,0,
+notifikasi,created_at,object,0,0,
+log_inferensi,id_log,object,0,0,
+log_inferensi,id_pengguna,object,0,0,
+log_inferensi,pertanyaan,object,0,0,
+log_inferensi,intent,object,0,0,
+log_inferensi,skor,object,0,0,
+log_inferensi,jawaban,object,0,0,
+log_inferensi,status,object,0,0,
+log_inferensi,waktu,object,0,0,
