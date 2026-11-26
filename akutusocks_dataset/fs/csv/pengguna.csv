@@ -1,8 +1,0 @@
-id_pengguna,nama_lengkap,email,password_hash,no_telepon,alamat,status_akun,role,wajib_ganti_password,shift_kerja,nama_usaha,alamat_usaha,created_at,updated_at
-1,Dewi Lestari,owner@contoh.test,$2b$10$f9KFiy35WTLzsp3oVIA6hOKQhmw2Kb0QnNMnAQ/PUc4xPXUu/78HS,083500950330,Samarinda (alamat contoh),aktif,owner,False,,Toko Contoh (data contoh),Samarinda (alamat contoh),2025-05-02 09:00:00+07:00,
-2,Rendra Pratama,spv1@contoh.test,$2b$10$f9KFiy35WTLzsp3oVIA6hOKQhmw2Kb0QnNMnAQ/PUc4xPXUu/78HS,085267436738,Samarinda (alamat contoh),aktif,spv,True,Pagi,,,2025-05-02 09:00:00+07:00,
-3,Sari Anggraini,spv2@contoh.test,$2b$10$f9KFiy35WTLzsp3oVIA6hOKQhmw2Kb0QnNMnAQ/PUc4xPXUu/78HS,082736973524,Samarinda (alamat contoh),aktif,spv,True,Siang,,,2025-05-02 09:00:00+07:00,
-4,Bagas Wibowo,staff1@contoh.test,$2b$10$f9KFiy35WTLzsp3oVIA6hOKQhmw2Kb0QnNMnAQ/PUc4xPXUu/78HS,086039987656,Samarinda (alamat contoh),aktif,staff,True,Pagi,,,2025-05-02 09:00:00+07:00,
-5,Putri Maharani,staff2@contoh.test,$2b$10$f9KFiy35WTLzsp3oVIA6hOKQhmw2Kb0QnNMnAQ/PUc4xPXUu/78HS,082550236327,Samarinda (alamat contoh),aktif,staff,True,Siang,,,2025-05-02 09:00:00+07:00,
-6,Dimas Saputra,staff3@contoh.test,$2b$10$f9KFiy35WTLzsp3oVIA6hOKQhmw2Kb0QnNMnAQ/PUc4xPXUu/78HS,085633539897,Samarinda (alamat contoh),aktif,staff,True,Pagi,,,2025-05-02 09:00:00+07:00,
-7,Nadia Rahma,staff4@contoh.test,,080823448551,Samarinda (alamat contoh),belum_aktif,staff,False,Siang,,,2025-05-02 09:00:00+07:00,
