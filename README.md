@@ -1,4 +1,4 @@
-# CAPSTONE-DS | AkutuSocks | Dataset Contoh (Diolah dari Dataset Publik)
+# CAPSTONE-DS | AkutuSocks | Dataset Contoh
 
 > **DATA CONTOH**, bukan data AkutuSocks yang sebenarnya. Temuan analisis dari data ini tidak boleh diklaim sebagai kondisi nyata AkutuSocks.
 
