@@ -1,0 +1,16 @@
+teks,intent,keterangan
+apa warna favorit kamu,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+berapa tinggi gunung everest,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+cara membuat teh tarik,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+siapa yang menang pertandingan semalam,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+bagaimana cara investasi saham,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+tolong tuliskan surat lamaran kerja,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+harga emas hari ini,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+kenapa langit berwarna biru,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+bagaimana cara memasak rendang,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+rekomendasi game seru,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+berapa penjualan kemarin,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+cara kirim barang ke luar negeri,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+jam buka bank sekarang,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+bantu saya belajar python,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih
+apa arti kata nostalgia,di_luar_konteks,uji penolakan sopan; TIDAK ada di data latih

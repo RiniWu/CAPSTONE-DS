@@ -1,0 +1,18 @@
+kolom,arti,sumber_atau_aturan
+kode_barang,ID produk (kunci seragam di semua berkas; = data_kode_barang di berkas Kasir Pintar),retail: Product No; kaos kaki: FKS-<pid Flipkart>
+id_gudang,"ID gudang (kunci seragam): 1=Gudang A, 2=Gudang B, 3=Gudang C",40 toko dikelompokkan seimbang menurut stok
+nama_gudang,Nama gudang,turunan id_gudang
+tanggal_cek,Tanggal cek stok terakhir pada gudang tersebut (kosong bila tidak ada catatan),retail_inventory: Start Date terbaru; kaos kaki: sintetis
+stok_mentah_diterima,"Stok sebagaimana diterima dari sumber, dijumlahkan per gudang (bisa negatif)",retail_inventory: Qty on hand; kaos kaki: sintetis
+stok_setelah_dicek,"Stok setelah dicek dan dibersihkan (negatif dijadikan 0), dijumlahkan per gudang","stok mentah per toko dengan negatif dijadikan 0, lalu dijumlahkan per gudang"
+letak_rak,Letak rak (hanya produk aplikasi),sintetis
+minimum_stok,Batas stok minimum (total semua gudang),"turunan penjualan mingguan x LEAD_WEEKS, dibatasi 3..50"
+harga_beli / harga_jual,"Rupiah (ASUMSI skala, bukan harga nyata)",retail dikali 1000; kaos kaki: harga INR x 190
+harga_beli_diimputasi,True bila harga beli diperkirakan dari rasio median kategori,cleaning
+diskon_persen,Diskon persen,retail: dari status markdown; kaos kaki: harga diskon Flipkart
+satuan / berat_gram / keterangan / gambar,Atribut tampilan (hanya produk aplikasi); gambar dan keterangan retail = acuan ACAK dari Flipkart,flipkart
+unit_keluar / unit_retur,"Total penjualan dan retur produk selama periode (semua gudang, hanya kuantitas)",retail_sales; kaos kaki: sintetis
+flipkart_pid / flipkart_nama,Produk Flipkart yang dipakai sebagai acuan gambar/keterangan/berat,flipkart
+metode_acuan_flipkart,Penanda: produk asli Flipkart atau pasangan acak per kategori (bukan padanan asli),label keterbatasan
+masuk_aplikasi,True = salah satu produk aplikasi (utama); False = produk acuan,pemilihan produk
+sumber_data,Asal data produk,retail_inventory+flipkart_acuan / flipkart_produk_asli+stok_penjualan_sintetis

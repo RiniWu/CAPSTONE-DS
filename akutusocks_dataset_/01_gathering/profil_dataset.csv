@@ -1,0 +1,4 @@
+dataset,baris,kolom,rentang_tanggal,kunci,peran
+retail_sales,125751,17,2025-06-01 s.d. 2026-04-24,"Product No, Store",barang keluar/retur (hanya kuantitas)
+retail_inventory,284755,18,2025-06-01 s.d. 2026-04-24,"Product No, Store","master barang, harga, stok per toko"
+flipkart,20000,15,2015-12-01 s.d. 2016-06-28,pid (tidak ada kunci ke dua dataset lain),"acuan gambar, keterangan, berat"

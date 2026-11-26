@@ -1,0 +1,1101 @@
+teks,intent,template_id,split,sumber
+"halo, selisih PROD-181295 sudah beres belum gan",status_selisih,status_selisih_22,latih,template_tim_entitas_dari_data_retail
+tolong langkah membuat penyesuaian stk yaa,prosedur_stok,prosedur_stok_25,latih,template_tim_entitas_dari_data_retail
+"halo, cek status selisih Scholar Footwear Flight Classic Zephyr",status_selisih,status_selisih_19,latih,template_tim_entitas_dari_data_retail
+woi bagaimana cara mengekspor laporan?,prosedur_stok,prosedur_stok_37,latih,template_tim_entitas_dari_data_retail
+tlg slsh Scholar Footwear Trailblazer yg msh kebuka apa aja yaa,status_selisih,status_selisih_46,latih,template_tim_entitas_dari_data_retail
+kak siapa yg boleh menghapus barang tlg,prosedur_stok,prosedur_stok_40,latih,template_tim_entitas_dari_data_retail
+tlg gdg mana yg stok PROD-161819 paling sedikit yaa,cek_stok,cek_stok_35,latih,template_tim_entitas_dari_data_retail
+"halo, history Scholar Footwear Boot Collection Woodland di gudang a ya",riwayat,riwayat_25,latih,template_tim_entitas_dari_data_retail
+kak kalo aktivitas ditolak spv hrs gmn ya,prosedur_stok,prosedur_stok_47,latih,template_tim_entitas_dari_data_retail
+min gudang mana yang stok PROD-165932 paling sedikit gan,cek_stok,cek_stok_35,latih,template_tim_entitas_dari_data_retail
+"halo, cara memasang aplikasi kasir di toko baru gan",di_luar_konteks,di_luar_konteks_48,latih,template_tim_entitas_dari_data_retail
+kode PROD-141953 stoknya tinggal brp ya,cek_stok,cek_stok_08,latih,template_tim_entitas_dari_data_retail
+coba slsh brg PROD-129490 udh dicek ulang blm tolong,status_selisih,status_selisih_43,latih,template_tim_entitas_dari_data_retail
+tlg lihat siapa yg mengubah PROD-169352 hari ini please,riwayat,riwayat_34,latih,template_tim_entitas_dari_data_retail
+"permisi, brg apa yg stknya tipis di gdg B please",cek_stok,cek_stok_48,latih,template_tim_entitas_dari_data_retail
+coba history stk PROD-106598 nih,riwayat,riwayat_10,latih,template_tim_entitas_dari_data_retail
+bang ada slsh baru gk di gdg b dong,status_selisih,status_selisih_42,latih,template_tim_entitas_dari_data_retail
+bisa tolong selisih Junior Apparel Cozy Pullovers yang masih terbuka apa saja nih,status_selisih,status_selisih_15,latih,template_tim_entitas_dari_data_retail
+tolong cara bikin penyesuaian stk gmn sekarang,prosedur_stok,prosedur_stok_45,uji,template_tim_entitas_dari_data_retail
+kpn PROD-190496 terakhir keluar yaa,riwayat,riwayat_23,latih,template_tim_entitas_dari_data_retail
+coba hitsory stok PROD-165941 thx,riwayat,riwayat_10,latih,template_tim_entitas_dari_data_retail
+tampilkan semua aktviitas yg masih diajukan yaa,riwayat,riwayat_38,latih,template_tim_entitas_dari_data_retail
+tlg cuaca hr ini gmn gan,di_luar_konteks,di_luar_konteks_63,latih,template_tim_entitas_dari_data_retail
+woi bagaimana cara mengisi alasan penyesuaian yaa,prosedur_stok,prosedur_stok_19,uji,template_tim_entitas_dari_data_retail
+tlg gmn cara berjualan lewat whatsapp tolong,di_luar_konteks,di_luar_konteks_17,latih,template_tim_entitas_dari_data_retail
+"halo, bagaimana cara mengisi haisl hitung fisik thx",prosedur_stok,prosedur_stok_39,latih,template_tim_entitas_dari_data_retail
+min barang apa saja yang stoknya tidak cocok dengan kasir pintar gan,status_selisih,status_selisih_09,latih,template_tim_entitas_dari_data_retail
+jadwal bioskop malam ini dong,di_luar_konteks,di_luar_konteks_05,latih,template_tim_entitas_dari_data_retail
+min cara menambah barang baru ke daftar ya,prosedur_stok,prosedur_stok_28,latih,template_tim_entitas_dari_data_retail
+catatan perpindahan Texlon Men's Ankle Length Socks antar gudang,riwayat,riwayat_04,latih,template_tim_entitas_dari_data_retail
+"permisi, brp ongkos kirim ke jakarta",di_luar_konteks,di_luar_konteks_58,latih,template_tim_entitas_dari_data_retail
+mba apa PROD-170980 sedang kosong di Gudang C?,cek_stok,cek_stok_39,uji,template_tim_entitas_dari_data_retail
+bang status tindak lanjut slsh PROD-179248,status_selisih,status_selisih_13,uji,template_tim_entitas_dari_data_retail
+bisa tolong selisih stok Camey Men's Quarter Length Socks #YBZ3T di gdg C berapa sekarang,status_selisih,status_selisih_08,latih,template_tim_entitas_dari_data_retail
+apa yang harus dilakukan kalau aktivitas saya ditolak spv tolong,prosedur_stok,prosedur_stok_08,latih,template_tim_entitas_dari_data_retail
+apakah selisih Femme Footwear Trailblazer Swift Run sudah selesai,status_selisih,status_selisih_06,latih,template_tim_entitas_dari_data_retail
+tolong apa itu machine learning,di_luar_konteks,di_luar_konteks_34,uji,template_tim_entitas_dari_data_retail
+kak lihat siapa yang mengubah FKS-SOCEJPT5YDSZ7QQP hari ini thx,riwayat,riwayat_34,latih,template_tim_entitas_dari_data_retail
+bang berapa banyak Scholar Footwear Boot Collection yang ada di gudang b please,cek_stok,cek_stok_19,latih,template_tim_entitas_dari_data_retail
+tlg siapa pemenang pilaa dunia terakhir yaa,di_luar_konteks,di_luar_konteks_11,latih,template_tim_entitas_dari_data_retail
+cara menambah barang baru ke daftar min,prosedur_stok,prosedur_stok_28,latih,template_tim_entitas_dari_data_retail
+bang cek apakah PROD-166172 cocok dengan kasir yaa,status_selisih,status_selisih_37,latih,template_tim_entitas_dari_data_retail
+kak daftar selisih yang menunggu validasi?,status_selisih,status_selisih_04,latih,template_tim_entitas_dari_data_retail
+tlg stk PROD-123534 di gdg b cukup gk nih,cek_stok,cek_stok_32,latih,template_tim_entitas_dari_data_retail
+woi buatkan caption instagram untuk produk tolong,di_luar_konteks,di_luar_konteks_27,latih,template_tim_entitas_dari_data_retail
+stok Scholar Footwear Boot Collection di semua gudang berapa thx,cek_stok,cek_stok_28,uji,template_tim_entitas_dari_data_retail
+coba slsh Junior Apparel Cozy Pullovers Varied gmn statusnya sekarang,status_selisih,status_selisih_41,latih,template_tim_entitas_dari_data_retail
+bang sisa PROD-169470 berapa,cek_stok,cek_stok_23,latih,template_tim_entitas_dari_data_retail
+tolong hitung 125 dikali 8 nih,di_luar_konteks,di_luar_konteks_20,latih,template_tim_entitas_dari_data_retail
+"permisi, selisih di gdg A yang blm selesai ada brp dong",status_selisih,status_selisih_35,latih,template_tim_entitas_dari_data_retail
+stk PROD-171010 di semua gdg min,cek_stok,cek_stok_18,uji,template_tim_entitas_dari_data_retail
+kak cara menambah brg baru ke daftar yaa,prosedur_stok,prosedur_stok_28,latih,template_tim_entitas_dari_data_retail
+coba selisih di gudang c sudah beres belum thx,status_selisih,status_selisih_17,latih,template_tim_entitas_dari_data_retail
+coba cara mengaktifkan akun lewat email gan,prosedur_stok,prosedur_stok_16,latih,template_tim_entitas_dari_data_retail
+woi siapa supplier termurah untuk kaos kaki yaa,di_luar_konteks,di_luar_konteks_44,latih,template_tim_entitas_dari_data_retail
+tlg stok total Junior Apparel Crop Pants berapa yaa,cek_stok,cek_stok_37,latih,template_tim_entitas_dari_data_retail
+tlg riwayat Junior Apparel Outer Shells di Gudang B,riwayat,riwayat_17,uji,template_tim_entitas_dari_data_retail
+"permisi, selisih FKS-SOCEJPT5BGXPBZKG udah divalidasi spv blm thx",status_selisih,status_selisih_10,uji,template_tim_entitas_dari_data_retail
+lht riwayat Femme Footwear Trailblazer Zephyr di gudang a,riwayat,riwayat_46,latih,template_tim_entitas_dari_data_retail
+tinggal berapa Mode Men's Floral Print Crew Length Socks #ADJA5 di gdg A yaa,cek_stok,cek_stok_27,latih,template_tim_entitas_dari_data_retail
+bang aktiivtas staff di gudang a tadi apa aja min,riwayat,riwayat_43,latih,template_tim_entitas_dari_data_retail
+tolong ada stok Femme Footwear Trailbalzer Zephyr atau sudah habis?,cek_stok,cek_stok_31,latih,template_tim_entitas_dari_data_retail
+kode PROD-181249 stoknya tinggal berapa min,cek_stok,cek_stok_08,latih,template_tim_entitas_dari_data_retail
+bang riwayat PROD-168767 dong gan,riwayat,riwayat_40,latih,template_tim_entitas_dari_data_retail
+min jam brp toko sebelah buka nih,di_luar_konteks,di_luar_konteks_70,uji,template_tim_entitas_dari_data_retail
+barang apa saja yang stoknya menipis di gudang a tolong,cek_stok,cek_stok_06,uji,template_tim_entitas_dari_data_retail
+"permisi, barang mana yang selisihnya paling besar gan",status_selisih,status_selisih_28,latih,template_tim_entitas_dari_data_retail
+mba rekomendasi film terbaru min,di_luar_konteks,di_luar_konteks_13,uji,template_tim_entitas_dari_data_retail
+tlg brp pcs Junior Apparel Miscelalny Varied yang tersedia,cek_stok,cek_stok_33,latih,template_tim_entitas_dari_data_retail
+"permisi, selisih di gdg A yang belum selesai ada berapa sekarang",status_selisih,status_selisih_35,latih,template_tim_entitas_dari_data_retail
+"woi lihat jumlah Bonjour Ladies Socks Women's Self Design, Striped Ankle Length Socks yg ada di gudang?",cek_stok,cek_stok_38,uji,template_tim_entitas_dari_data_retail
+stk FKS-SOCEGHEZKTYVJUWT di gdg C aman gk dong,cek_stok,cek_stok_44,uji,template_tim_entitas_dari_data_retail
+tlg selisih mana yang perlu saya validasi thx,status_selisih,status_selisih_20,latih,template_tim_entitas_dari_data_retail
+bisa tolong cek stok PROD-156277 please,cek_stok,cek_stok_02,latih,template_tim_entitas_dari_data_retail
+min brg mana yg stoknya di bawah minimum tolong,cek_stok,cek_stok_21,latih,template_tim_entitas_dari_data_retail
+bang apa yang harus saya lakukan kalau salah input jumlah sekarang,prosedur_stok,prosedur_stok_43,uji,template_tim_entitas_dari_data_retail
+bisa tolong bagaimana cara berjualan lewat whatsapp,di_luar_konteks,di_luar_konteks_17,latih,template_tim_entitas_dari_data_retail
+"permisi, info stok PROD-159575 di gudang c?",cek_stok,cek_stok_10,latih,template_tim_entitas_dari_data_retail
+"halo, cara menolak aktivitas staff bagi spv",prosedur_stok,prosedur_stok_26,latih,template_tim_entitas_dari_data_retail
+"halo, riwayat retur HANS Men's Crew Length Socks #DGFMF gan",riwayat,riwayat_13,latih,template_tim_entitas_dari_data_retail
+bisa tlg gmn cara membuat akun staff,prosedur_stok,prosedur_stok_29,latih,template_tim_entitas_dari_data_retail
+cara membuat logo toko ya,di_luar_konteks,di_luar_konteks_57,latih,template_tim_entitas_dari_data_retail
+bisa tolong kapan saya harus membuat penyesuaian stok thx,prosedur_stok,prosedur_stok_05,latih,template_tim_entitas_dari_data_retail
+"permisi, riwayat penyesuaian stok Pumpkin Patch Baby Girl's, Baby Boy's Self Design Crew Length Socks",riwayat,riwayat_08,latih,template_tim_entitas_dari_data_retail
+tlg slsh Femme Footwear Boot Collection yang masih terbuka apa saja please,status_selisih,status_selisih_15,latih,template_tim_entitas_dari_data_retail
+coba aktviitas staff di gudang a tadi apa aja sekarang,riwayat,riwayat_43,latih,template_tim_entitas_dari_data_retail
+mba tampilkan semua selisih yg belum selesai please,status_selisih,status_selisih_11,latih,template_tim_entitas_dari_data_retail
+tlg brg apa yg stknya tipis di gdg B sekarang,cek_stok,cek_stok_48,latih,template_tim_entitas_dari_data_retail
+mba kenapa stok PROD-112071 beda dengan kasir pintar gan,status_selisih,status_selisih_31,latih,template_tim_entitas_dari_data_retail
+coba apa arti status diajukan diterima dan ditolak?,prosedur_stok,prosedur_stok_11,latih,template_tim_entitas_dari_data_retail
+woi lnagkah memindahkan barang antar gdg please,prosedur_stok,prosedur_stok_02,uji,template_tim_entitas_dari_data_retail
+woi berapa harga sepatu di tokopedia yaa,di_luar_konteks,di_luar_konteks_40,latih,template_tim_entitas_dari_data_retail
+bisa tolong history brg PROD-172108 gmn ya,riwayat,riwayat_42,latih,template_tim_entitas_dari_data_retail
+coba lihat perubahan stok PROD-101295 bulan lalu thx,riwayat,riwayat_14,uji,template_tim_entitas_dari_data_retail
+slsh Scholar Footwear Trailblazer yg msh kebuka apa aja min,status_selisih,status_selisih_46,latih,template_tim_entitas_dari_data_retail
+bang ajarkan saya bahasa jepang dong,di_luar_konteks,di_luar_konteks_33,latih,template_tim_entitas_dari_data_retail
+bisa tolong riwayat PROD-161870 dong thx,riwayat,riwayat_40,latih,template_tim_entitas_dari_data_retail
+tlg laporan keuangan bulan lalu min,di_luar_konteks,di_luar_konteks_29,latih,template_tim_entitas_dari_data_retail
+"permisi, cek ketersediaan PROD-179268 dong",cek_stok,cek_stok_20,latih,template_tim_entitas_dari_data_retail
+kak barang apa yang stoknya kosong tolong,cek_stok,cek_stok_30,latih,template_tim_entitas_dari_data_retail
+buat jadwal belajar bahasa inggris nih,di_luar_konteks,di_luar_konteks_56,latih,template_tim_entitas_dari_data_retail
+brp pcs Junior Apparel Light Shells Varied yang tersedia nih,cek_stok,cek_stok_33,latih,template_tim_entitas_dari_data_retail
+min barang apa yang perlu direstok di gdg A,cek_stok,cek_stok_36,latih,template_tim_entitas_dari_data_retail
+bisa tlg kamu siapa,di_luar_konteks,di_luar_konteks_22,uji,template_tim_entitas_dari_data_retail
+woi ada selisih baru di Gudang C gak nih,status_selisih,status_selisih_12,uji,template_tim_entitas_dari_data_retail
+mba kapan stok dianggap menipis min,prosedur_stok,prosedur_stok_20,latih,template_tim_entitas_dari_data_retail
+"halo, cuaca hr ini gmn ya",di_luar_konteks,di_luar_konteks_63,latih,template_tim_entitas_dari_data_retail
+min apa yg terjadi kalau brg keluar melebihi stk min,prosedur_stok,prosedur_stok_34,latih,template_tim_entitas_dari_data_retail
+bisa tolong bagaimana cara logout ya,prosedur_stok,prosedur_stok_42,uji,template_tim_entitas_dari_data_retail
+cara mengaktifkan akun lewat email,prosedur_stok,prosedur_stok_16,latih,template_tim_entitas_dari_data_retail
+coba tolong cek jumlah stok Mode Men's Floral Print Crew Length Socks #QKHV2 di gudang b tolong,cek_stok,cek_stok_04,latih,template_tim_entitas_dari_data_retail
+"halo, bagaimana cara mengubah password ya",prosedur_stok,prosedur_stok_17,latih,template_tim_entitas_dari_data_retail
+"halo, apa itu stk terverfiikasi please",prosedur_stok,prosedur_stok_36,latih,template_tim_entitas_dari_data_retail
+tlg yg ditolak spv apa aja tolong,riwayat,riwayat_45,latih,template_tim_entitas_dari_data_retail
+mba killys Men's Solid No Show Socks #ZYSKX msh ada gk yaa,cek_stok,cek_stok_43,latih,template_tim_entitas_dari_data_retail
+"permisi, bagaimana cara menghitung ulang stok fisik di gudang?",prosedur_stok,prosedur_stok_12,latih,template_tim_entitas_dari_data_retail
+tlg history stok PROD-168773 yaa,riwayat,riwayat_10,latih,template_tim_entitas_dari_data_retail
+tolong tolong hitung diskon 20 persen dari 150000 dong,di_luar_konteks,di_luar_konteks_59,latih,template_tim_entitas_dari_data_retail
+tlg brp slsh yg blm kelar min,status_selisih,status_selisih_44,uji,template_tim_entitas_dari_data_retail
+tolong cek stk PROD-160889 tolong,cek_stok,cek_stok_02,latih,template_tim_entitas_dari_data_retail
+kak harga bitcoin sekarang berapa dong,di_luar_konteks,di_luar_konteks_09,latih,template_tim_entitas_dari_data_retail
+aktivitas yang ditolak spv minggu ini apa saja ya,riwayat,riwayat_15,uji,template_tim_entitas_dari_data_retail
+min cara memperbaiki laptop yg lambat,di_luar_konteks,di_luar_konteks_25,latih,template_tim_entitas_dari_data_retail
+coba format berkas kasir pintar yang benar seperti apa min,prosedur_stok,prosedur_stok_07,latih,template_tim_entitas_dari_data_retail
+tolong lihat perubahan stok PROD-170976 bulan lalu please,riwayat,riwayat_14,uji,template_tim_entitas_dari_data_retail
+cek stk FKS-SOCEGHM6QFEFATF4 dong yaa,cek_stok,cek_stok_46,uji,template_tim_entitas_dari_data_retail
+min selisih Scholar Footwear Canvas Styles yang masih terbuka apa saja,status_selisih,status_selisih_15,latih,template_tim_entitas_dari_data_retail
+woi berapa harga sepatu di tokopedia ya,di_luar_konteks,di_luar_konteks_40,latih,template_tim_entitas_dari_data_retail
+coba prosedur memindahkan barang dari satu gudang ke gudang lain tolong,prosedur_stok,prosedur_stok_38,latih,template_tim_entitas_dari_data_retail
+tolong siapa yg input brg msauk PROD-175422,riwayat,riwayat_44,latih,template_tim_entitas_dari_data_retail
+"permisi, Femme Footwear Boot Collection Plushfoot msh ada gk thx",cek_stok,cek_stok_43,latih,template_tim_entitas_dari_data_retail
+history stok PROD-175922,riwayat,riwayat_10,latih,template_tim_entitas_dari_data_retail
+bisa tolong bagaimana cara menghitung ulang stok fisik di gudang min,prosedur_stok,prosedur_stok_12,latih,template_tim_entitas_dari_data_retail
+mba lihat siapa yang mengubah PROD-184553 hari ini min,riwayat,riwayat_34,latih,template_tim_entitas_dari_data_retail
+mba apakah Mode Men's Floral Print Crew Length Socks #PBZKG masih tersedia gan,cek_stok,cek_stok_11,uji,template_tim_entitas_dari_data_retail
+"permisi, berapa selisih kasir pintar untuk Texlon Men's Mid-calf Length Socks thx",status_selisih,status_selisih_30,latih,template_tim_entitas_dari_data_retail
+"permisi, kapan terakhir Pumpkin Patch Baby Girl's, Baby Boy's Self Design Crew Length Socks keular dari gudang a min",riwayat,riwayat_03,latih,template_tim_entitas_dari_data_retail
+jumlah slsh yang sudah selesai ada brp,status_selisih,status_selisih_21,latih,template_tim_entitas_dari_data_retail
+bisa tolong cek status selisih Femme Footwear Trailblazer Varied,status_selisih,status_selisih_19,latih,template_tim_entitas_dari_data_retail
+apa bedanya stok sistem dan stok fisik,prosedur_stok,prosedur_stok_15,latih,template_tim_entitas_dari_data_retail
+woi siapa yang input barang masuk Femme Footwear Court Casual Zephyr ya,riwayat,riwayat_22,latih,template_tim_entitas_dari_data_retail
+woi siapa yang menolak aktivitas PROD-160853 thx,riwayat,riwayat_32,latih,template_tim_entitas_dari_data_retail
+woi catatan retur PROD-104234 gan,riwayat,riwayat_36,latih,template_tim_entitas_dari_data_retail
+brp kali Junior Apparel Crop Pants Zephyr keluar dr Gudang A bulan ini gan,riwayat,riwayat_37,latih,template_tim_entitas_dari_data_retail
+bang kapan stok fisik harus dihitung,prosedur_stok,prosedur_stok_30,latih,template_tim_entitas_dari_data_retail
+tolong apa kabar hari ini tolong,di_luar_konteks,di_luar_konteks_21,latih,template_tim_entitas_dari_data_retail
+"halo, kamu siapa thx",di_luar_konteks,di_luar_konteks_22,uji,template_tim_entitas_dari_data_retail
+bang cara menolak aktivitas staff bagi spv sekarang,prosedur_stok,prosedur_stok_26,latih,template_tim_entitas_dari_data_retail
+bisa tolong lihat perubahan stok PROD-139861 bulan lalu gan,riwayat,riwayat_14,uji,template_tim_entitas_dari_data_retail
+daftar selisih yang menunggu validasi sekarang,status_selisih,status_selisih_04,latih,template_tim_entitas_dari_data_retail
+cara mebmuat kue bolu dong,di_luar_konteks,di_luar_konteks_08,latih,template_tim_entitas_dari_data_retail
+bisa tlg siapa yg menolak aktivitas PROD-168782 ya,riwayat,riwayat_32,latih,template_tim_entitas_dari_data_retail
+coba apa bedanya diajukan sm diterima please,prosedur_stok,prosedur_stok_50,latih,template_tim_entitas_dari_data_retail
+bang slsh Femme Footwear Court Casual yg masih terbuka apa saja?,status_selisih,status_selisih_15,latih,template_tim_entitas_dari_data_retail
+bang history brg PROD-175758 gmn yaa,riwayat,riwayat_42,latih,template_tim_entitas_dari_data_retail
+tolong PROD-165563 masih ada tolong,cek_stok,cek_stok_25,latih,template_tim_entitas_dari_data_retail
+jejak perubahan stk FKS-SOCEHFAYXFJ4NB39,riwayat,riwayat_20,uji,template_tim_entitas_dari_data_retail
+siapa presiden indonesia sekarang min,di_luar_konteks,di_luar_konteks_01,latih,template_tim_entitas_dari_data_retail
+cara ganti password gmn nih,prosedur_stok,prosedur_stok_51,latih,template_tim_entitas_dari_data_retail
+bisa tolong kenapa barang keluar tidak bisa melebihi stok,prosedur_stok,prosedur_stok_13,uji,template_tim_entitas_dari_data_retail
+bisa tolong prosedur memindahkan barang dari satu gudang ke gudang lain sekarang,prosedur_stok,prosedur_stok_38,latih,template_tim_entitas_dari_data_retail
+"halo, apa bedanya stok ssitem dan stok fisik?",prosedur_stok,prosedur_stok_15,latih,template_tim_entitas_dari_data_retail
+mba jumlah stok PROD-161819 sekarang ya,cek_stok,cek_stok_14,latih,template_tim_entitas_dari_data_retail
+min sisa barang Junior Apparel Trousers di Gudang C sekarang,cek_stok,cek_stok_13,uji,template_tim_entitas_dari_data_retail
+apa arti status diajukan diterima dan ditolak?,prosedur_stok,prosedur_stok_11,latih,template_tim_entitas_dari_data_retail
+"permisi, Femme Foowtear Trailblazer Swift Run ready gk di Gudang C please",cek_stok,cek_stok_22,latih,template_tim_entitas_dari_data_retail
+"halo, Femme Footwear Modern Legend Summit di Gudang C masih ada gk yaa",cek_stok,cek_stok_03,latih,template_tim_entitas_dari_data_retail
+woi apakah riwayat aktivitas bisa dihapus,prosedur_stok,prosedur_stok_18,latih,template_tim_entitas_dari_data_retail
+"permisi, slsh Junior Apparel Crop Pants yg msh kebuka apa aja sekarang",status_selisih,status_selisih_46,latih,template_tim_entitas_dari_data_retail
+coba cara menurunkan berat badan yaa,di_luar_konteks,di_luar_konteks_15,uji,template_tim_entitas_dari_data_retail
+tlg bagaimana cara logout nih,prosedur_stok,prosedur_stok_42,uji,template_tim_entitas_dari_data_retail
+bang stk PROD-180706 kok beda sm kasir pintar?,status_selisih,status_selisih_45,latih,template_tim_entitas_dari_data_retail
+woi slsh Scholar Footwear Flight Classic Zephyr gmn statusnya nih,status_selisih,status_selisih_41,latih,template_tim_entitas_dari_data_retail
+sisa PROD-160889 bearpa please,cek_stok,cek_stok_23,latih,template_tim_entitas_dari_data_retail
+"permisi, brg mana yg selisihnya paling bsear",status_selisih,status_selisih_28,latih,template_tim_entitas_dari_data_retail
+kak berapa omzet penjualan bulan ini tolong,di_luar_konteks,di_luar_konteks_10,latih,template_tim_entitas_dari_data_retail
+tlg lagu populer minggu ini,di_luar_konteks,di_luar_konteks_36,latih,template_tim_entitas_dari_data_retail
+tlg cara menambah barang baru ke daftar yaa,prosedur_stok,prosedur_stok_28,latih,template_tim_entitas_dari_data_retail
+bang cara memasang aplikasi kasir di toko baru dong,di_luar_konteks,di_luar_konteks_48,latih,template_tim_entitas_dari_data_retail
+siapa yang input barang masuk Femme Footwear Court Casual Trident nih,riwayat,riwayat_22,latih,template_tim_entitas_dari_data_retail
+tlg info stk PROD-146038 di Gduang B gan,cek_stok,cek_stok_10,latih,template_tim_entitas_dari_data_retail
+tolong cek Femme Footwear Court Casual Zephyr di Gudang A min,cek_stok,cek_stok_26,latih,template_tim_entitas_dari_data_retail
+"permisi, Mode Men's Floral Print Crew Lentgh Socks #QKHV2 ready gak di Gudang A",cek_stok,cek_stok_22,latih,template_tim_entitas_dari_data_retail
+tlg tampilkan riwayat perpindahan Mayor Men's Ankle Length Socks please,riwayat,riwayat_29,latih,template_tim_entitas_dari_data_retail
+kak selisih stok Mode Men's Floral Print Crew Length Socks #Z7QQP di Gudang C brp ya,status_selisih,status_selisih_08,latih,template_tim_entitas_dari_data_retail
+"halo, lht riwayat Sonpra Men's Mid-calf Length Socks di gdg a nih",riwayat,riwayat_46,latih,template_tim_entitas_dari_data_retail
+bisa tolong stok killys Men's Solid No Show Socks #TSGBT aman please,cek_stok,cek_stok_24,latih,template_tim_entitas_dari_data_retail
+ada stok HANS Men's Crew Length Socks #FATF4 atau sudah habis please,cek_stok,cek_stok_31,latih,template_tim_entitas_dari_data_retail
+gmn cara mencatat brg masuk please,prosedur_stok,prosedur_stok_00,latih,template_tim_entitas_dari_data_retail
+tlg bikinin caption ig thx,di_luar_konteks,di_luar_konteks_65,latih,template_tim_entitas_dari_data_retail
+kalo aktivitas ditolak spv hrs gmn ya,prosedur_stok,prosedur_stok_47,latih,template_tim_entitas_dari_data_retail
+tampilin riwayat Scholar Footwear Court Casual Zephyr di gdg c,riwayat,riwayat_01,latih,template_tim_entitas_dari_data_retail
+"permisi, selisih kategori Femme Footwear Court Casual brp banyak min",status_selisih,status_selisih_33,latih,template_tim_entitas_dari_data_retail
+min riwayat retur Scholar Footwear Trailblazer Feline nih,riwayat,riwayat_13,latih,template_tim_entitas_dari_data_retail
+mba slsh di Gudang C sudah beres belum,status_selisih,status_selisih_17,latih,template_tim_entitas_dari_data_retail
+"min berapa selisih kasir pintar untuk Auraa Men's, Women's Solid No Show Socks gan",status_selisih,status_selisih_30,latih,template_tim_entitas_dari_data_retail
+"halo, jejak perubahan stok PROD-161865",riwayat,riwayat_20,uji,template_tim_entitas_dari_data_retail
+mba slsh Femme Footwear Boot Collection yg msh kebuka apa aja gan,status_selisih,status_selisih_46,latih,template_tim_entitas_dari_data_retail
+kak cuaca hari ini bagaimana tolong,di_luar_konteks,di_luar_konteks_00,latih,template_tim_entitas_dari_data_retail
+"permisi, barang yang stoknya habis di gudang b apa saja ya",cek_stok,cek_stok_15,latih,template_tim_entitas_dari_data_retail
+bisa tlg cara bkiin penyesuaian stk gmn dong,prosedur_stok,prosedur_stok_45,uji,template_tim_entitas_dari_data_retail
+"halo, stok Femme Footwear Trailblazer Varied di gdg B berapa?",cek_stok,cek_stok_00,latih,template_tim_entitas_dari_data_retail
+siapa penemu telepon tolong,di_luar_konteks,di_luar_konteks_26,uji,template_tim_entitas_dari_data_retail
+bisa tlg lihat stok Scholar Footwear Boot Collection Plushfoot per gudang gan,cek_stok,cek_stok_17,latih,template_tim_entitas_dari_data_retail
+bisa tlg ada slsh baru gk di gdg B,status_selisih,status_selisih_42,latih,template_tim_entitas_dari_data_retail
+mba riwayat PROD-170869 dong please,riwayat,riwayat_40,latih,template_tim_entitas_dari_data_retail
+min tolong catat penjualan hari ini?,di_luar_konteks,di_luar_konteks_41,latih,template_tim_entitas_dari_data_retail
+selisih barang FKS-SOCEGHH2FWBTSGBT sudah ditindaklanjuti belum dong,status_selisih,status_selisih_00,latih,template_tim_entitas_dari_data_retail
+riwayat PROD-168473 bulan ini tolong,riwayat,riwayat_24,latih,template_tim_entitas_dari_data_retail
+"halo, bagaimana cara logout ya",prosedur_stok,prosedur_stok_42,uji,template_tim_entitas_dari_data_retail
+"halo, cek sisa stok semua barang Junior Apparel Cozy Trousers nih",cek_stok,cek_stok_40,latih,template_tim_entitas_dari_data_retail
+"kapan tadd Men's, Women's Ankle Length Socks terakhir diterima di Gudang A ya",riwayat,riwayat_31,latih,template_tim_entitas_dari_data_retail
+tlg selisih PROD-175940 sudah divalidasi spv belum thx,status_selisih,status_selisih_10,uji,template_tim_entitas_dari_data_retail
+tlg ada berapa selisih yang belum dicek gan,status_selisih,status_selisih_02,latih,template_tim_entitas_dari_data_retail
+kak buatkan deskripsi produk untuk shopee please,di_luar_konteks,di_luar_konteks_45,latih,template_tim_entitas_dari_data_retail
+bang selisih PROD-169487 udh beres blm min,status_selisih,status_selisih_40,latih,template_tim_entitas_dari_data_retail
+kak gmn cara jualan di tiktok dong,di_luar_konteks,di_luar_konteks_66,latih,template_tim_entitas_dari_data_retail
+mba ajarkan saya bahasa jepang nih,di_luar_konteks,di_luar_konteks_33,latih,template_tim_entitas_dari_data_retail
+bisa tolong tips diet sehat,di_luar_konteks,di_luar_konteks_30,latih,template_tim_entitas_dari_data_retail
+tlg apa fungsi menu riwayat,prosedur_stok,prosedur_stok_27,uji,template_tim_entitas_dari_data_retail
+"halo, siapa yg input brg masuk PROD-154479 ya",riwayat,riwayat_44,latih,template_tim_entitas_dari_data_retail
+siapa yang menyetujui aktivitas FKS-SOCE7732ARDEF7UF,riwayat,riwayat_18,latih,template_tim_entitas_dari_data_retail
+selisih Scholar Footwear Retro Legend yang masih terbuka apa saja sekarang,status_selisih,status_selisih_15,latih,template_tim_entitas_dari_data_retail
+tolong cek jumlah stok Junior Apparel Printed Tees Varied di gudang a,cek_stok,cek_stok_04,latih,template_tim_entitas_dari_data_retail
+tolong Mode Men's Floral Print Crew Length Socks #ADJA5 ready gak di Gudang A dong,cek_stok,cek_stok_22,latih,template_tim_entitas_dari_data_retail
+woi lihat perubahan stok PROD-168858 bulan lalu sekarang,riwayat,riwayat_14,uji,template_tim_entitas_dari_data_retail
+siapa yang boleh menerima atau menolak aktivitas staff min,prosedur_stok,prosedur_stok_10,latih,template_tim_entitas_dari_data_retail
+bagaimana cara mengunggah berkas kasir pintar tolong,prosedur_stok,prosedur_stok_06,latih,template_tim_entitas_dari_data_retail
+tolong daftar brg yang gk ditemukan di berkas kasir pintar tlg,status_selisih,status_selisih_32,latih,template_tim_entitas_dari_data_retail
+bisa tolong brp kurs dolar skrg thx,di_luar_konteks,di_luar_konteks_64,uji,template_tim_entitas_dari_data_retail
+mba siapa yang terakhir menyesuaikan stok PROD-179243 nih,riwayat,riwayat_28,latih,template_tim_entitas_dari_data_retail
+tlg format berkas kasir pintar yang benar seperti apa yaa,prosedur_stok,prosedur_stok_07,latih,template_tim_entitas_dari_data_retail
+woi cek stk PROD-141937 dong gan,cek_stok,cek_stok_46,uji,template_tim_entitas_dari_data_retail
+kak siapa pemenang piala dunia terakhir gan,di_luar_konteks,di_luar_konteks_11,latih,template_tim_entitas_dari_data_retail
+min siapa yang menyeutjui aktivitas PROD-100358 tolong,riwayat,riwayat_18,latih,template_tim_entitas_dari_data_retail
+bagaimana cara mengekspor laporan nih,prosedur_stok,prosedur_stok_37,latih,template_tim_entitas_dari_data_retail
+gimana cara mencatat retur dari pelanggan yaa,prosedur_stok,prosedur_stok_24,latih,template_tim_entitas_dari_data_retail
+cara mengemas dan mengirim paket min,di_luar_konteks,di_luar_konteks_18,latih,template_tim_entitas_dari_data_retail
+siapa yg terakhir ubah stk Scholar Footwear Sandals Varied ya,riwayat,riwayat_39,latih,template_tim_entitas_dari_data_retail
+tolong ada brp slsh yg masih terubka,status_selisih,status_selisih_23,latih,template_tim_entitas_dari_data_retail
+kak gmn cara mengisi alasan penyesuaian nih,prosedur_stok,prosedur_stok_19,uji,template_tim_entitas_dari_data_retail
+"permisi, berapa selisih kasir pintar untuk killys Men's Solid No Show Socks #TSGBT ya",status_selisih,status_selisih_30,latih,template_tim_entitas_dari_data_retail
+"permisi, tolong hitung diskon 20 persen dari 150000 tolong",di_luar_konteks,di_luar_konteks_59,latih,template_tim_entitas_dari_data_retail
+tlg tampilkan riwayat Scholar Footwear Traliblazer Swift Run di gudang c nih,riwayat,riwayat_01,latih,template_tim_entitas_dari_data_retail
+cek status slsh Junior Apparel Cozy Pullovers Varied,status_selisih,status_selisih_19,latih,template_tim_entitas_dari_data_retail
+bisa tlg apa ibu kota prancis please,di_luar_konteks,di_luar_konteks_06,latih,template_tim_entitas_dari_data_retail
+cara mengaktifkan akun lewat email min,prosedur_stok,prosedur_stok_16,latih,template_tim_entitas_dari_data_retail
+kak brp slsh yg blm kelar sekarang,status_selisih,status_selisih_44,uji,template_tim_entitas_dari_data_retail
+tlg bagaimana cara mengekspor laporan thx,prosedur_stok,prosedur_stok_37,latih,template_tim_entitas_dari_data_retail
+woi cek ketersdeiaan PROD-179167,cek_stok,cek_stok_20,latih,template_tim_entitas_dari_data_retail
+tlg stk PROD-163276 kok beda sm kasir pintar sekarang,status_selisih,status_selisih_45,latih,template_tim_entitas_dari_data_retail
+"halo, selisih barang PROD-168823 sudah ditindaklanjuti belum",status_selisih,status_selisih_00,latih,template_tim_entitas_dari_data_retail
+harga bitcoin skrg brp yaa,di_luar_konteks,di_luar_konteks_09,latih,template_tim_entitas_dari_data_retail
+catatan perpindahan Camey Men's Quarter Length Socks #5M4D3 antar gudang tolong,riwayat,riwayat_04,latih,template_tim_entitas_dari_data_retail
+woi lihat stok Scholar Footwear Canvas Styles Drifter per gudang please,cek_stok,cek_stok_17,latih,template_tim_entitas_dari_data_retail
+tolong perubahan stok Femme Footwear Boot Collection Plushfoot minggu lalu tolong,riwayat,riwayat_27,latih,template_tim_entitas_dari_data_retail
+sisa brg Scholar Footwear Modern Legend di gdg A brp thx,cek_stok,cek_stok_45,latih,template_tim_entitas_dari_data_retail
+bisa tolong bagaimana cara membuat website dong,di_luar_konteks,di_luar_konteks_12,latih,template_tim_entitas_dari_data_retail
+mba apa PROD-168767 sedang kosong di Gudang B thx,cek_stok,cek_stok_39,uji,template_tim_entitas_dari_data_retail
+tolong brp stk PROD-170961 di gdg A gan,cek_stok,cek_stok_42,latih,template_tim_entitas_dari_data_retail
+bang gmn cara catat brg masuk please,prosedur_stok,prosedur_stok_44,latih,template_tim_entitas_dari_data_retail
+coba tampilkan semua selisih yg blm selesai?,status_selisih,status_selisih_11,latih,template_tim_entitas_dari_data_retail
+kak berapa sisa stok Scholar Footwear Hardcourt Zephyr ya,cek_stok,cek_stok_01,latih,template_tim_entitas_dari_data_retail
+tolong kapan PROD-175326 terakhir dicek sekarang,riwayat,riwayat_09,latih,template_tim_entitas_dari_data_retail
+woi selisih Junior Apparel Crew Tees yang masih terbuka apa saja nih,status_selisih,status_selisih_15,latih,template_tim_entitas_dari_data_retail
+"permisi, berapa sleisih kasir pintar untuk Scholar Footwear Boot Collection Plushfoot gan",status_selisih,status_selisih_30,latih,template_tim_entitas_dari_data_retail
+apa fungsi menu riwayat ya,prosedur_stok,prosedur_stok_27,uji,template_tim_entitas_dari_data_retail
+status hitung ulang PROD-166367 gmiana min,status_selisih,status_selisih_25,latih,template_tim_entitas_dari_data_retail
+tlg cara bikin penyesuaian stk gmn yaa,prosedur_stok,prosedur_stok_45,uji,template_tim_entitas_dari_data_retail
+min hasil pencocokan kasir pintar untuk PROD-172108 bagaimana dong,status_selisih,status_selisih_16,latih,template_tim_entitas_dari_data_retail
+woi langkah membuat penyesuaian stk plaese,prosedur_stok,prosedur_stok_25,latih,template_tim_entitas_dari_data_retail
+mba cara bikin penyesuaian stk gmn min,prosedur_stok,prosedur_stok_45,uji,template_tim_entitas_dari_data_retail
+min riwayat aktivitas PROD-170526 minggu ini,riwayat,riwayat_02,uji,template_tim_entitas_dari_data_retail
+tlg cara ganti password gmn,prosedur_stok,prosedur_stok_51,latih,template_tim_entitas_dari_data_retail
+bang gmn cara upload file kasir pintar min,prosedur_stok,prosedur_stok_48,latih,template_tim_entitas_dari_data_retail
+"halo, berapa brg yang selisihnya blm dicek ulang",status_selisih,status_selisih_14,uji,template_tim_entitas_dari_data_retail
+tlg slsh brg PROD-165591 udh dicek ulang blm min,status_selisih,status_selisih_43,latih,template_tim_entitas_dari_data_retail
+coba jumlah stok PROD-159671 sekraang ya,cek_stok,cek_stok_14,latih,template_tim_entitas_dari_data_retail
+coba tampilkan aktivitas terakhir di Gudang A dong,riwayat,riwayat_11,latih,template_tim_entitas_dari_data_retail
+coba jumlah stok PROD-161819 sekarang thx,cek_stok,cek_stok_14,latih,template_tim_entitas_dari_data_retail
+gmn cara mengubah status tindak lanjut selisih?,prosedur_stok,prosedur_stok_35,latih,template_tim_entitas_dari_data_retail
+woi kapan stok fisik harus dihitung,prosedur_stok,prosedur_stok_30,latih,template_tim_entitas_dari_data_retail
+"halo, tolong ringkas berita hari ini?",di_luar_konteks,di_luar_konteks_39,latih,template_tim_entitas_dari_data_retail
+tolong selisih mana yang perlu saya validasi?,status_selisih,status_selisih_20,latih,template_tim_entitas_dari_data_retail
+min siapa yg input brg masuk PROD-169470 min,riwayat,riwayat_44,latih,template_tim_entitas_dari_data_retail
+"halo, aktivitas terakhir Junior Apparel Outer Shells di gudang b sekarang",riwayat,riwayat_35,latih,template_tim_entitas_dari_data_retail
+mba bagaimana status selisih Reebok Men's Aknle Length Socks?,status_selisih,status_selisih_01,uji,template_tim_entitas_dari_data_retail
+woi barang apa saja yang stoknya menipis di Gudang C,cek_stok,cek_stok_06,uji,template_tim_entitas_dari_data_retail
+riwayat PROD-141937 dong yaa,riwayat,riwayat_40,latih,template_tim_entitas_dari_data_retail
+berapa selisih kasir pintar untuk Scholar Footwear Boot Collection Plushfoot,status_selisih,status_selisih_30,latih,template_tim_entitas_dari_data_retail
+coba jumlah stok FKS-SOCEGHM6QFEFATF4 sekarang please,cek_stok,cek_stok_14,latih,template_tim_entitas_dari_data_retail
+bisa tlg gmn cara mengunggah berkas kasir pintar,prosedur_stok,prosedur_stok_06,latih,template_tim_entitas_dari_data_retail
+mba lihat siapa yang mengubah PROD-160856 hari ini,riwayat,riwayat_34,latih,template_tim_entitas_dari_data_retail
+bang riwayat retur Mode Men's Floral Print Crew Length Socks #JGVYU tolong,riwayat,riwayat_13,latih,template_tim_entitas_dari_data_retail
+min riwayat PROD-169256 dong,riwayat,riwayat_40,latih,template_tim_entitas_dari_data_retail
+tolong selisih Scholar Footwear Boot Collection Plushfoot di gudang a sudah ditindaklanjuti belum thx,status_selisih,status_selisih_26,uji,template_tim_entitas_dari_data_retail
+min sipaa pemilik toko pesaing?,di_luar_konteks,di_luar_konteks_60,latih,template_tim_entitas_dari_data_retail
+bang slsh Junior Apparel Printed Tees yg msh kebuka apa aja yaa,status_selisih,status_selisih_46,latih,template_tim_entitas_dari_data_retail
+"halo, bagaimana cara membuat website",di_luar_konteks,di_luar_konteks_12,latih,template_tim_entitas_dari_data_retail
+min apa bedanya stok sistem dan stok fisik gan,prosedur_stok,prosedur_stok_15,latih,template_tim_entitas_dari_data_retail
+coba gmn cara membuka cabang baru min,di_luar_konteks,di_luar_konteks_31,uji,template_tim_entitas_dari_data_retail
+woi kapan stok dianggap menipis,prosedur_stok,prosedur_stok_20,latih,template_tim_entitas_dari_data_retail
+coba sisa brg Scholar Footwear Retro Legend di gdg b brp gan,cek_stok,cek_stok_45,latih,template_tim_entitas_dari_data_retail
+tlg aktivitas staff di gudang c tadi apa aja nih,riwayat,riwayat_43,latih,template_tim_entitas_dari_data_retail
+coba cara bikin penyesuaian stk gmn please,prosedur_stok,prosedur_stok_45,uji,template_tim_entitas_dari_data_retail
+tlg rekomen resto enak dong min,di_luar_konteks,di_luar_konteks_68,latih,template_tim_entitas_dari_data_retail
+tlg tolong hitung diskon 20 persen dari 150000 sekarang,di_luar_konteks,di_luar_konteks_59,latih,template_tim_entitas_dari_data_retail
+bagaimana cara membuat akun stfaf ya,prosedur_stok,prosedur_stok_29,latih,template_tim_entitas_dari_data_retail
+bang cara ngitnug stk fisik gmn,prosedur_stok,prosedur_stok_49,latih,template_tim_entitas_dari_data_retail
+tolong stok total Femme Footwear Court Casual berapa thx,cek_stok,cek_stok_37,latih,template_tim_entitas_dari_data_retail
+mba barang yang stoknya habis di gdg C apa saja sekarang,cek_stok,cek_stok_15,latih,template_tim_entitas_dari_data_retail
+"halo, selisih barang PROD-169317 sudah ditindaklanjuti belum sekarang",status_selisih,status_selisih_00,latih,template_tim_entitas_dari_data_retail
+slsh PROD-161870 udah divalidasi spv blm nih,status_selisih,status_selisih_10,uji,template_tim_entitas_dari_data_retail
+tlg tampilkan riwayat perpindahan Femme Footwear Flight Classic Varied ya,riwayat,riwayat_29,latih,template_tim_entitas_dari_data_retail
+min selisih stok Femme Footwear Boot Collection Plushfoot di Gudang A berapa thx,status_selisih,status_selisih_08,latih,template_tim_entitas_dari_data_retail
+mba slsh brg PROD-179178 udh dicek ulang blm nih,status_selisih,status_selisih_43,latih,template_tim_entitas_dari_data_retail
+tlg apa bedanya diajukan sm diterima ya,prosedur_stok,prosedur_stok_50,latih,template_tim_entitas_dari_data_retail
+kak apakah riwayat atkivitas bisa dihapus min,prosedur_stok,prosedur_stok_18,latih,template_tim_entitas_dari_data_retail
+tolong aktivitas apa saja yang ditloak spv please,riwayat,riwayat_30,uji,template_tim_entitas_dari_data_retail
+min slsh Scholar Footwear Hardcourt yg msh kebuka apa aja,status_selisih,status_selisih_46,latih,template_tim_entitas_dari_data_retail
+tlg catat penjualan hari ini thx,di_luar_konteks,di_luar_konteks_41,latih,template_tim_entitas_dari_data_retail
+"halo, apa yang harus saya lakukan kalau salah input jumlah",prosedur_stok,prosedur_stok_43,uji,template_tim_entitas_dari_data_retail
+Junior Apparel Cozy Trousers Family Line di gudang c masih ada gak gan,cek_stok,cek_stok_03,latih,template_tim_entitas_dari_data_retail
+tlg riwayat PROD-139834 bulan ini yaa,riwayat,riwayat_24,latih,template_tim_entitas_dari_data_retail
+brp total keuntungan minggu ini thx,di_luar_konteks,di_luar_konteks_19,latih,template_tim_entitas_dari_data_retail
+"permisi, promo apa yang cocok untuk akhir tahun please",di_luar_konteks,di_luar_konteks_46,uji,template_tim_entitas_dari_data_retail
+bisa tolong ada selisih baru di Gudang B gak tolong,status_selisih,status_selisih_12,uji,template_tim_entitas_dari_data_retail
+kak apa fungsi menu riwayat,prosedur_stok,prosedur_stok_27,uji,template_tim_entitas_dari_data_retail
+"halo, slsh Femme Footwear Modern Legend yg msh kebuka apa aja",status_selisih,status_selisih_46,latih,template_tim_entitas_dari_data_retail
+kak tlg bikinin caption ig,di_luar_konteks,di_luar_konteks_65,latih,template_tim_entitas_dari_data_retail
+selisih mana yang statusnya sedang dicek ulang di gdg B tolong,status_selisih,status_selisih_38,uji,template_tim_entitas_dari_data_retail
+mba hasil pencocokan kasir pintar untuk PROD-152173 gmn thx,status_selisih,status_selisih_16,latih,template_tim_entitas_dari_data_retail
+tlg ada slsh baru gk di gdg B min,status_selisih,status_selisih_42,latih,template_tim_entitas_dari_data_retail
+"halo, lht riwayat Junior Apparel Outer Shells Varied di gdg c min",riwayat,riwayat_46,latih,template_tim_entitas_dari_data_retail
+bang selisih mana yang pelru saya validasi sekarang,status_selisih,status_selisih_20,latih,template_tim_entitas_dari_data_retail
+woi berapa total keuntungan minggu ini gan,di_luar_konteks,di_luar_konteks_19,latih,template_tim_entitas_dari_data_retail
+bang harga bitcoin sekarang berapa gan,di_luar_konteks,di_luar_konteks_09,latih,template_tim_entitas_dari_data_retail
+siapa pemilik toko pesaing,di_luar_konteks,di_luar_konteks_60,latih,template_tim_entitas_dari_data_retail
+tlg slsh mana yg statusnya sedang dicek ulang di gdg C please,status_selisih,status_selisih_38,uji,template_tim_entitas_dari_data_retail
+berapa kali Scholar Footwear Trailblazer Zephyr keluar dari gudang c bulan ini dong,riwayat,riwayat_37,latih,template_tim_entitas_dari_data_retail
+kak lht riwayat LefJord Men's Ankle Length Socks di gudang a?,riwayat,riwayat_46,latih,template_tim_entitas_dari_data_retail
+bisa tolong stok total Scholar Footwear Court Casual berapa,cek_stok,cek_stok_37,latih,template_tim_entitas_dari_data_retail
+tlg brp stk PROD-169470 di gdg A dong,cek_stok,cek_stok_42,latih,template_tim_entitas_dari_data_retail
+"halo, jumlah stk PROD-179243 skrg dong",cek_stok,cek_stok_14,latih,template_tim_entitas_dari_data_retail
+coba gimana cara mencatat retur dari pelanggan?,prosedur_stok,prosedur_stok_24,latih,template_tim_entitas_dari_data_retail
+"halo, ada selisih minus di gdg B gak ya",status_selisih,status_selisih_39,latih,template_tim_entitas_dari_data_retail
+kak lihat jumlah Texlon Men's Mid-calf Length Socks yg ada di gudang,cek_stok,cek_stok_38,uji,template_tim_entitas_dari_data_retail
+kak perubahan stk Junior Apparel Outer Shells Varied minggu lalu yaa,riwayat,riwayat_27,latih,template_tim_entitas_dari_data_retail
+min harga bitcoin skrg brp sekarang,di_luar_konteks,di_luar_konteks_09,latih,template_tim_entitas_dari_data_retail
+min selisih FKS-SOCEGKQYHGGXAPGD statusnya apa sekarang yaa,status_selisih,status_selisih_03,latih,template_tim_entitas_dari_data_retail
+"halo, tinggal berapa Junior Apparel Crop Pants Zephyr di Gudang B gan",cek_stok,cek_stok_27,latih,template_tim_entitas_dari_data_retail
+sisa PROD-152565 berapa gan,cek_stok,cek_stok_23,latih,template_tim_entitas_dari_data_retail
+rekomen resto enak dong skrg,di_luar_konteks,di_luar_konteks_68,latih,template_tim_entitas_dari_data_retail
+bisa tlg ada stok killys Men's Solid No Show Socks #TSGBT atau sudah habis nih,cek_stok,cek_stok_31,latih,template_tim_entitas_dari_data_retail
+siapa yang terakhir mengubah stok Scholar Footwear Trailblazer Zephyr,riwayat,riwayat_00,latih,template_tim_entitas_dari_data_retail
+kpn Junior Apparel Gift Bundles Varied terakhir keluar dr gudang a please,riwayat,riwayat_41,latih,template_tim_entitas_dari_data_retail
+tlg brp kurs dolar hari ini,di_luar_konteks,di_luar_konteks_03,uji,template_tim_entitas_dari_data_retail
+tlg perubahan stk Mayor Men's Crew Length Socks minggu lalu,riwayat,riwayat_27,latih,template_tim_entitas_dari_data_retail
+bagaimana cara mengubah password skrg,prosedur_stok,prosedur_stok_17,latih,template_tim_entitas_dari_data_retail
+selisih apa yang masih menunggu hitung ulang tolong,status_selisih,status_selisih_29,latih,template_tim_entitas_dari_data_retail
+berapa kali prored Men's Printed No Show Socks keluar dari gudang b bulan ini please,riwayat,riwayat_37,latih,template_tim_entitas_dari_data_retail
+min daftar barang yang tidak ditemukan di berkas kasir pintar?,status_selisih,status_selisih_32,latih,template_tim_entitas_dari_data_retail
+coba riwayat Junior Apprael Light Shells di gdg C,riwayat,riwayat_17,uji,template_tim_entitas_dari_data_retail
+"halo, cek sisa stk semua brg Femme Foowtear Court Casual tlg",cek_stok,cek_stok_40,latih,template_tim_entitas_dari_data_retail
+bisa tolong cek status selisih Scholar Footwear Trailblazer Feline ya,status_selisih,status_selisih_19,latih,template_tim_entitas_dari_data_retail
+"permisi, cara melihat catatan penolakan dari spv gan",prosedur_stok,prosedur_stok_33,latih,template_tim_entitas_dari_data_retail
+tolong apakah Camey Men's Quarter Length Socks #5M4D3 masih tersedia nih,cek_stok,cek_stok_11,uji,template_tim_entitas_dari_data_retail
+mba stok PROD-160149 di gdg C cukup gak yaa,cek_stok,cek_stok_32,latih,template_tim_entitas_dari_data_retail
+mba apakah slsh PROD-138110 udah selesai please,status_selisih,status_selisih_34,uji,template_tim_entitas_dari_data_retail
+tlg gmn cara mengekspor laporan nih,prosedur_stok,prosedur_stok_37,latih,template_tim_entitas_dari_data_retail
+tlg selisih PROD-157417 statusnya apa sekarang ya,status_selisih,status_selisih_03,latih,template_tim_entitas_dari_data_retail
+coba apa itu penyesuaian stok ya,prosedur_stok,prosedur_stok_04,uji,template_tim_entitas_dari_data_retail
+riwayat penyesuaian stok Junior Apparel Crew Tees Varied ya,riwayat,riwayat_08,latih,template_tim_entitas_dari_data_retail
+woi total stk Junior Apparel Cozy Trousers Family Line di semua gdg skrg,cek_stok,cek_stok_09,latih,template_tim_entitas_dari_data_retail
+tampilkan semua selisih yang belum selesai yaa,status_selisih,status_selisih_11,latih,template_tim_entitas_dari_data_retail
+tlg bagaimana cara input stk fisik,prosedur_stok,prosedur_stok_03,latih,template_tim_entitas_dari_data_retail
+kak selisih di Gudang C yang belum selesai ada berapa ya,status_selisih,status_selisih_35,latih,template_tim_entitas_dari_data_retail
+min kapan terakhir NBA Women's Solid Ankle Length Socks keluar dr Gudang B ya,riwayat,riwayat_03,latih,template_tim_entitas_dari_data_retail
+tlg selisih stok Junior Apparel Cozy Pullovers Varied di Gudang C berapa sekarang,status_selisih,status_selisih_08,latih,template_tim_entitas_dari_data_retail
+"halo, selisih PROD-123476 udh beres blm",status_selisih,status_selisih_40,latih,template_tim_entitas_dari_data_retail
+total stok Scholar Footwear Hardcourt Zephyr di semua gudang gan,cek_stok,cek_stok_09,latih,template_tim_entitas_dari_data_retail
+mba ceritakan lelucon lucu,di_luar_konteks,di_luar_konteks_07,latih,template_tim_entitas_dari_data_retail
+mba kenapa stok FKS-SOCEJPT5BGXPBZKG beda dengan kasir pintar?,status_selisih,status_selisih_31,latih,template_tim_entitas_dari_data_retail
+aktivitas staff di gudang b tadi apa aja sekarang,riwayat,riwayat_43,latih,template_tim_entitas_dari_data_retail
+brg apa yg stknya tipis di gdg C min,cek_stok,cek_stok_48,latih,template_tim_entitas_dari_data_retail
+tlg kalo aktivitas ditolak spv hrs gmn yaa,prosedur_stok,prosedur_stok_47,latih,template_tim_entitas_dari_data_retail
+tlg siapa yg memindahkan Scholar Footwear Court Casual Zephyr ke Gudang A ya,riwayat,riwayat_12,latih,template_tim_entitas_dari_data_retail
+"permisi, brp slsh yg blm kelar",status_selisih,status_selisih_44,uji,template_tim_entitas_dari_data_retail
+lihat riwayat brg masuk di gdg C min,riwayat,riwayat_06,latih,template_tim_entitas_dari_data_retail
+woi brp slsh yg blm kelar dong,status_selisih,status_selisih_44,uji,template_tim_entitas_dari_data_retail
+"halo, siapa supplier termurah untuk kaos kaki ya",di_luar_konteks,di_luar_konteks_44,latih,template_tim_entitas_dari_data_retail
+lihat stok Scholar Footwear Trainer Zephyr per gdg ya,cek_stok,cek_stok_17,latih,template_tim_entitas_dari_data_retail
+aktivitas apa saja yg diotlak spv yaa,riwayat,riwayat_30,uji,template_tim_entitas_dari_data_retail
+"halo, sisa barang Scholar Footwear Canvas Styles di gudnag c please",cek_stok,cek_stok_13,uji,template_tim_entitas_dari_data_retail
+"halo, bearpa kurs dolar hari ini",di_luar_konteks,di_luar_konteks_03,uji,template_tim_entitas_dari_data_retail
+bang ada brp slsh yg belum dicek ya,status_selisih,status_selisih_02,latih,template_tim_entitas_dari_data_retail
+"halo, stk kategori Junior Apparel Crew Tees tersisa brp yaa",cek_stok,cek_stok_05,latih,template_tim_entitas_dari_data_retail
+coba selisih di gudang b yg belum selesai ada berapa gan,status_selisih,status_selisih_35,latih,template_tim_entitas_dari_data_retail
+akitvitas yg ditolak spv minggu ini apa saja thx,riwayat,riwayat_15,uji,template_tim_entitas_dari_data_retail
+kpn PROD-129490 terakhir dicek?,riwayat,riwayat_09,latih,template_tim_entitas_dari_data_retail
+bisa tlg brp omzet penjualan bulan ini thx,di_luar_konteks,di_luar_konteks_10,latih,template_tim_entitas_dari_data_retail
+tlg siapa yg terakhir mengubah stok Scholar Footwear Hardcourt Zephyr thx,riwayat,riwayat_00,latih,template_tim_entitas_dari_data_retail
+bang selisih kategori Scholar Footwear Boot Collection berapa banyak tolong,status_selisih,status_selisih_33,latih,template_tim_entitas_dari_data_retail
+tlg jumlah slsh yg sudah selesai ada brp,status_selisih,status_selisih_21,latih,template_tim_entitas_dari_data_retail
+"halo, barang apa yang stoknya kosong min",cek_stok,cek_stok_30,latih,template_tim_entitas_dari_data_retail
+gmn cara upload file kasir pintar thx,prosedur_stok,prosedur_stok_48,latih,template_tim_entitas_dari_data_retail
+bang tlg ringkas berita hari ini,di_luar_konteks,di_luar_konteks_39,latih,template_tim_entitas_dari_data_retail
+tlg cara menghitung pajak penjualan gan,di_luar_konteks,di_luar_konteks_42,latih,template_tim_entitas_dari_data_retail
+brp slsh yg blm kelar,status_selisih,status_selisih_44,uji,template_tim_entitas_dari_data_retail
+bang bagaimana cara membuka cabang baru,di_luar_konteks,di_luar_konteks_31,uji,template_tim_entitas_dari_data_retail
+tlg catatan penyesuaian di gdg A tolong,riwayat,riwayat_21,latih,template_tim_entitas_dari_data_retail
+siapa pemilik toko pesaing tolong,di_luar_konteks,di_luar_konteks_60,latih,template_tim_entitas_dari_data_retail
+tlg cara menurunkan berat badan gan,di_luar_konteks,di_luar_konteks_15,uji,template_tim_entitas_dari_data_retail
+coba tolong cek jumlah stok Scholar Footwear Boot Collection Woodland di Gudang B,cek_stok,cek_stok_04,latih,template_tim_entitas_dari_data_retail
+"permisi, brp kurs dolar skrg sekarang",di_luar_konteks,di_luar_konteks_64,uji,template_tim_entitas_dari_data_retail
+kak riwayat retur Scholar Footwear Court Casual Trident ya,riwayat,riwayat_13,latih,template_tim_entitas_dari_data_retail
+bang sisa brg Femme Footwear Court Casual di gudang a gan,cek_stok,cek_stok_13,uji,template_tim_entitas_dari_data_retail
+tolong gmn cara catat brg masuk,prosedur_stok,prosedur_stok_44,latih,template_tim_entitas_dari_data_retail
+yg ditolak spv apa aja nih,riwayat,riwayat_45,latih,template_tim_entitas_dari_data_retail
+bang apa ibu kota prancis min,di_luar_konteks,di_luar_konteks_06,latih,template_tim_entitas_dari_data_retail
+"permisi, cara menghitung pajak penjualan",di_luar_konteks,di_luar_konteks_42,latih,template_tim_entitas_dari_data_retail
+gdg mana yang stk PROD-134867 paling sedikit thx,cek_stok,cek_stok_35,latih,template_tim_entitas_dari_data_retail
+coba gmn cara catat brg masuk gan,prosedur_stok,prosedur_stok_44,latih,template_tim_entitas_dari_data_retail
+coba PROD-169352 masih ada,cek_stok,cek_stok_25,latih,template_tim_entitas_dari_data_retail
+woi cara menolak aktivitas staff bagi spv skrg,prosedur_stok,prosedur_stok_26,latih,template_tim_entitas_dari_data_retail
+woi selisih barang FKS-SOCEGHM6YYCTBXHS sudah ditindaklanjuti belum nih,status_selisih,status_selisih_00,latih,template_tim_entitas_dari_data_retail
+bang gmn cara membuka cabang baru skrg,di_luar_konteks,di_luar_konteks_31,uji,template_tim_entitas_dari_data_retail
+bisa tlg hasil pencocokan kasir pintar untuk PROD-190487 gmn dong,status_selisih,status_selisih_16,latih,template_tim_entitas_dari_data_retail
+mba sattus tindak lanjut selisih PROD-168863 tolong,status_selisih,status_selisih_13,uji,template_tim_entitas_dari_data_retail
+tampilkan riwayat Femme Footwear Trailblazer Equilibrium di gdg A ya,riwayat,riwayat_01,latih,template_tim_entitas_dari_data_retail
+"halo, siapa presiden indonesia sekarang please",di_luar_konteks,di_luar_konteks_01,latih,template_tim_entitas_dari_data_retail
+tips menata etalase toko gan,di_luar_konteks,di_luar_konteks_51,latih,template_tim_entitas_dari_data_retail
+siapa yang terakhir menyesuaikan stok PROD-138968 tlg,riwayat,riwayat_28,latih,template_tim_entitas_dari_data_retail
+mba bagaimana cara mencatat barang masuk,prosedur_stok,prosedur_stok_00,latih,template_tim_entitas_dari_data_retail
+bang cara ganti password gmn tlg,prosedur_stok,prosedur_stok_51,latih,template_tim_entitas_dari_data_retail
+apa yang dimaksud minimum stok,prosedur_stok,prosedur_stok_21,latih,template_tim_entitas_dari_data_retail
+kak lht riwayat Femme Footwaer Modern Legend Summit di gdg A sekarang,riwayat,riwayat_46,latih,template_tim_entitas_dari_data_retail
+mba siapa yang boleh menerima atau menolak aktivitas staff min,prosedur_stok,prosedur_stok_10,latih,template_tim_entitas_dari_data_retail
+kak berapa kurs dolar hari ini min,di_luar_konteks,di_luar_konteks_03,uji,template_tim_entitas_dari_data_retail
+tolong prosedur memindahkan barang dari satu gudang ke gudang lain,prosedur_stok,prosedur_stok_38,latih,template_tim_entitas_dari_data_retail
+woi aktivitas staff hari ini apa saja tlg,riwayat,riwayat_05,latih,template_tim_entitas_dari_data_retail
+tolong tampiklan riwayat perpindahan Femme Footwear Flight Classic Varied gan,riwayat,riwayat_29,latih,template_tim_entitas_dari_data_retail
+"permisi, apa ibu kota prancis plaese",di_luar_konteks,di_luar_konteks_06,latih,template_tim_entitas_dari_data_retail
+"halo, siapa yang terakhir menyesuaikan stok FKS-SOCEHDGFUMY5M4D3?",riwayat,riwayat_28,latih,template_tim_entitas_dari_data_retail
+tolong kalo aktivitas ditolak spv hrs gmn tolong,prosedur_stok,prosedur_stok_47,latih,template_tim_entitas_dari_data_retail
+kapan saya haurs membuat penyesuaian stok dong,prosedur_stok,prosedur_stok_05,latih,template_tim_entitas_dari_data_retail
+tolong bagaimana cara membuat iklan di instagram tlg,di_luar_konteks,di_luar_konteks_62,latih,template_tim_entitas_dari_data_retail
+tlg brg yg stoknya habis di Gudang A apa saja nih,cek_stok,cek_stok_15,latih,template_tim_entitas_dari_data_retail
+tolong hasil pencocokan kasir pintar untuk PROD-165563 bagaimana dong,status_selisih,status_selisih_16,latih,template_tim_entitas_dari_data_retail
+bisa tolong siapa yang terakhir mengubah stok Mayor Men's Mid-calf Length Socks thx,riwayat,riwayat_00,latih,template_tim_entitas_dari_data_retail
+woi bagaimana cara mengisi alasan penyesuaian gan,prosedur_stok,prosedur_stok_19,uji,template_tim_entitas_dari_data_retail
+"permisi, FKS-SOCEGGZ8MHX79YGA masih ada",cek_stok,cek_stok_25,latih,template_tim_entitas_dari_data_retail
+coba brp kurs dolar skrg gan,di_luar_konteks,di_luar_konteks_64,uji,template_tim_entitas_dari_data_retail
+bang sisa brg Kaos Kaki di gdg A brp tolong,cek_stok,cek_stok_45,latih,template_tim_entitas_dari_data_retail
+bang barang mana yang stoknya di bawah minmium gan,cek_stok,cek_stok_21,latih,template_tim_entitas_dari_data_retail
+cek status slsh Scholar Footwear Trailblazer Swift Run ya,status_selisih,status_selisih_19,latih,template_tim_entitas_dari_data_retail
+history stok PROD-162214 yaa,riwayat,riwayat_10,latih,template_tim_entitas_dari_data_retail
+tlg gmn cara mengubah password,prosedur_stok,prosedur_stok_17,latih,template_tim_entitas_dari_data_retail
+tolong riwayat Femme Footwear Boot Collection di gudang c please,riwayat,riwayat_17,uji,template_tim_entitas_dari_data_retail
+history HANS Men's Crew Length Socks #DJY33 di gdg A yaa,riwayat,riwayat_25,latih,template_tim_entitas_dari_data_retail
+kak tolong cek jumlah stok Scholar Footwear Hardcourt Zephyr di gudang a nih,cek_stok,cek_stok_04,latih,template_tim_entitas_dari_data_retail
+riwayat Junior Apparel Gift Bundles di gdg C,riwayat,riwayat_17,uji,template_tim_entitas_dari_data_retail
+"permisi, cek stok FKS-SOCEGGMEN3VUAKTK",cek_stok,cek_stok_02,latih,template_tim_entitas_dari_data_retail
+min gimana cara mencatat retur dr pelanggan,prosedur_stok,prosedur_stok_24,latih,template_tim_entitas_dari_data_retail
+tlg kenapa aktivitas saya berstatus diajukan dong,prosedur_stok,prosedur_stok_31,latih,template_tim_entitas_dari_data_retail
+aktivtias apa saja yang ditolak spv gan,riwayat,riwayat_30,uji,template_tim_entitas_dari_data_retail
+woi kenapa stk PROD-175965 beda dgn kasir pintar,status_selisih,status_selisih_31,latih,template_tim_entitas_dari_data_retail
+woi brg mana yg selisihnya paling besar nih,status_selisih,status_selisih_28,latih,template_tim_entitas_dari_data_retail
+min kpn Mode Men's Floral Print Crew Length Socks #QKHV2 terakhir diterima di Gudang B please,riwayat,riwayat_31,latih,template_tim_entitas_dari_data_retail
+coba apa fungsi menu riwayat gan,prosedur_stok,prosedur_stok_27,uji,template_tim_entitas_dari_data_retail
+"permisi, cara menolak aktivitas satff bagi spv tolong",prosedur_stok,prosedur_stok_26,latih,template_tim_entitas_dari_data_retail
+bisa tolong apa ibu kota prancis sekarang,di_luar_konteks,di_luar_konteks_06,latih,template_tim_entitas_dari_data_retail
+bang bagaimana cara deep clenaing gudang nih,di_luar_konteks,di_luar_konteks_23,latih,template_tim_entitas_dari_data_retail
+woi cara menurunkan berat badan,di_luar_konteks,di_luar_konteks_15,uji,template_tim_entitas_dari_data_retail
+brp sisa stk Mode Men's Floral Print Crew Length Socks #4BHWE tlg,cek_stok,cek_stok_01,latih,template_tim_entitas_dari_data_retail
+bisa tlg slsh Scholar Footwear Retro Legend yg msh kebuka apa aja,status_selisih,status_selisih_46,latih,template_tim_entitas_dari_data_retail
+kak stk fisik Scholar Footwear Boot Collection Woodland sm dengan catatan gk thx,status_selisih,status_selisih_36,latih,template_tim_entitas_dari_data_retail
+apakah selisih FKS-SOCEGGMEN3VUAKTK sudah selesai ya,status_selisih,status_selisih_34,uji,template_tim_entitas_dari_data_retail
+bisa tolong slsh brg PROD-188459 udh dicek ulang blm ya,status_selisih,status_selisih_43,latih,template_tim_entitas_dari_data_retail
+tolong siapa supplier termurah untuk kaos kaki min,di_luar_konteks,di_luar_konteks_44,latih,template_tim_entitas_dari_data_retail
+min siapa yg menyeutjui aktivitas PROD-179160 dong,riwayat,riwayat_18,latih,template_tim_entitas_dari_data_retail
+gmn cara melihat riwayat brg thx,prosedur_stok,prosedur_stok_23,latih,template_tim_entitas_dari_data_retail
+woi aktivitas terakhir Femme Footwear Trailblazer di gdg C,riwayat,riwayat_35,latih,template_tim_entitas_dari_data_retail
+bang gmn cara input stk fisik gan,prosedur_stok,prosedur_stok_03,latih,template_tim_entitas_dari_data_retail
+mba lagu populer mniggu ini nih,di_luar_konteks,di_luar_konteks_36,latih,template_tim_entitas_dari_data_retail
+kak tolong catat penjualan hari ini tolong,di_luar_konteks,di_luar_konteks_41,latih,template_tim_entitas_dari_data_retail
+bisa tlg total stk DOUBLE HORSE Men's Solid No Show Socks di semua gdg please,cek_stok,cek_stok_09,latih,template_tim_entitas_dari_data_retail
+min brp stk PROD-101296 di gudang a tolong,cek_stok,cek_stok_42,latih,template_tim_entitas_dari_data_retail
+tolong aktivitas apa saja yang ditolak spv,riwayat,riwayat_30,uji,template_tim_entitas_dari_data_retail
+coba lihat jumlah killys Men's Solid No Show Socks #TBXHS yang ada di gudang nih,cek_stok,cek_stok_38,uji,template_tim_entitas_dari_data_retail
+jejak perubahan stok PROD-172730,riwayat,riwayat_20,uji,template_tim_entitas_dari_data_retail
+min tolong ringkas berita hari ini dong,di_luar_konteks,di_luar_konteks_39,latih,template_tim_entitas_dari_data_retail
+min jam brp toko sebelah buka gan,di_luar_konteks,di_luar_konteks_70,uji,template_tim_entitas_dari_data_retail
+kak siapa presiden indonesia skrg nih,di_luar_konteks,di_luar_konteks_01,latih,template_tim_entitas_dari_data_retail
+kak stok HANS Men's Crew Length Socks #FATF4 aman?,cek_stok,cek_stok_24,latih,template_tim_entitas_dari_data_retail
+"permisi, cara menghitung pajak penjualan nih",di_luar_konteks,di_luar_konteks_42,latih,template_tim_entitas_dari_data_retail
+kak cek stok PROD-170826?,cek_stok,cek_stok_02,latih,template_tim_entitas_dari_data_retail
+daftar selisih yang menunggu validasi ya,status_selisih,status_selisih_04,latih,template_tim_entitas_dari_data_retail
+bisa tlg cuaca hari ini gmn dong,di_luar_konteks,di_luar_konteks_00,latih,template_tim_entitas_dari_data_retail
+"halo, status tindak lanjut selisih PROD-177168 dong",status_selisih,status_selisih_13,uji,template_tim_entitas_dari_data_retail
+mba bagaimana cara mengatur jadwal shift karyawan min,di_luar_konteks,di_luar_konteks_50,latih,template_tim_entitas_dari_data_retail
+"halo, selisih apa yang masih menunggu hitung ulang",status_selisih,status_selisih_29,latih,template_tim_entitas_dari_data_retail
+tolong stok Scholar Footwear Trailblazer Swift Run aman sekarang,cek_stok,cek_stok_24,latih,template_tim_entitas_dari_data_retail
+mba stk PROD-163821 kok beda sm kasir pintar gan,status_selisih,status_selisih_45,latih,template_tim_entitas_dari_data_retail
+lihat jumlah Scholar Footwear Trailblazer Varied yang ada di gudang tolong,cek_stok,cek_stok_38,uji,template_tim_entitas_dari_data_retail
+"permisi, stk PROD-170557 kok beda sm kasir pintar please",status_selisih,status_selisih_45,latih,template_tim_entitas_dari_data_retail
+tlg buatkan caption instagram untuk produk?,di_luar_konteks,di_luar_konteks_27,latih,template_tim_entitas_dari_data_retail
+"halo, slsh brg PROD-158672 udh dicek ulang blm nih",status_selisih,status_selisih_43,latih,template_tim_entitas_dari_data_retail
+mba barang yang stoknya habis di gudang a apa saja min,cek_stok,cek_stok_15,latih,template_tim_entitas_dari_data_retail
+min history Texlon Men's Mid-calf Length Scoks di Gudang C,riwayat,riwayat_25,latih,template_tim_entitas_dari_data_retail
+coba lihat perubahan stok PROD-165077 bulan lalu,riwayat,riwayat_14,uji,template_tim_entitas_dari_data_retail
+tolong bagaimana cara membuat ilkan di instagram,di_luar_konteks,di_luar_konteks_62,latih,template_tim_entitas_dari_data_retail
+bang bagaimana cara menindaklanjuti selisih please,prosedur_stok,prosedur_stok_09,latih,template_tim_entitas_dari_data_retail
+"halo, kapan terakhir killys Men's Solid No Show Scoks #TBXHS keluar dari gudang b",riwayat,riwayat_03,latih,template_tim_entitas_dari_data_retail
+tolong selisih PROD-170844 sudah divalidasi spv belum min,status_selisih,status_selisih_10,uji,template_tim_entitas_dari_data_retail
+cara menloak aktivitas staff bagi spv?,prosedur_stok,prosedur_stok_26,latih,template_tim_entitas_dari_data_retail
+coba sisa PROD-142514 berapa ya,cek_stok,cek_stok_23,latih,template_tim_entitas_dari_data_retail
+prored Men's Printed No Show Socks ready gk di gdg A ya,cek_stok,cek_stok_22,latih,template_tim_entitas_dari_data_retail
+kak kapan Femme Footwear Court Casual Zephyr terakhir diterima di gdg C thx,riwayat,riwayat_31,latih,template_tim_entitas_dari_data_retail
+coba total stok Femme Footwear Trailblazer Equilibrium di semua gudang sekarang,cek_stok,cek_stok_09,latih,template_tim_entitas_dari_data_retail
+buatkan caption instagram untuk produk?,di_luar_konteks,di_luar_konteks_27,latih,template_tim_entitas_dari_data_retail
+"permisi, sisa brg Scholar Footwear Retro Legend di gudang c brp gan",cek_stok,cek_stok_45,latih,template_tim_entitas_dari_data_retail
+tolong catatan reutr PROD-175760 please,riwayat,riwayat_36,latih,template_tim_entitas_dari_data_retail
+tlg sisa brg Junior Apparel Crop Pants di gudang a brp,cek_stok,cek_stok_45,latih,template_tim_entitas_dari_data_retail
+siapa yang terakhir menyesuaikan stok PROD-184561,riwayat,riwayat_28,latih,template_tim_entitas_dari_data_retail
+bisa tolong bagaimana prosedur opname stok min,prosedur_stok,prosedur_stok_22,latih,template_tim_entitas_dari_data_retail
+tolong yg ditolak spv apa aja please,riwayat,riwayat_45,latih,template_tim_entitas_dari_data_retail
+woi aktivitas terakhir Scholar Footwear Canvas Styles di gdg C,riwayat,riwayat_35,latih,template_tim_entitas_dari_data_retail
+woi cek Junior Apparel Light Shells Varied di gdg a,cek_stok,cek_stok_26,latih,template_tim_entitas_dari_data_retail
+cuaca besok di jakarta min,di_luar_konteks,di_luar_konteks_38,uji,template_tim_entitas_dari_data_retail
+apakah selisih Scholar Footwear Trainer Zephyr sudah selesai dong,status_selisih,status_selisih_06,latih,template_tim_entitas_dari_data_retail
+bisa tolong stok Femme Footwear Court Casual di semua gudang berapa?,cek_stok,cek_stok_28,uji,template_tim_entitas_dari_data_retail
+"permisi, apa bedanya diajukan sm diterima please",prosedur_stok,prosedur_stok_50,latih,template_tim_entitas_dari_data_retail
+coba tlg cek jumlah stk Junior Apparel Printed Tees Varied di gdg C,cek_stok,cek_stok_04,latih,template_tim_entitas_dari_data_retail
+lihat perubahan stok PROD-166172 bulan lalu yaa,riwayat,riwayat_14,uji,template_tim_entitas_dari_data_retail
+tolong kpn stok fisik harus dihitung,prosedur_stok,prosedur_stok_30,latih,template_tim_entitas_dari_data_retail
+tinggal berapa Junior Apparel Printed Tees Varied di Gudang B thx,cek_stok,cek_stok_27,latih,template_tim_entitas_dari_data_retail
+bang sisa brg Femme Footwear Trailblazer di gudang a brp nih,cek_stok,cek_stok_45,latih,template_tim_entitas_dari_data_retail
+bisa tolong apa PROD-156277 sedang kosong di gudang b min,cek_stok,cek_stok_39,uji,template_tim_entitas_dari_data_retail
+woi apa fungsi menu riwayat,prosedur_stok,prosedur_stok_27,uji,template_tim_entitas_dari_data_retail
+woi siapa yg menolak aktivitas PROD-166367 thx,riwayat,riwayat_32,latih,template_tim_entitas_dari_data_retail
+bisa tolong cara ganti password gmn yaa,prosedur_stok,prosedur_stok_51,latih,template_tim_entitas_dari_data_retail
+history Junior Apparel Cozy Trousers Zephyr di Gudang C tolong,riwayat,riwayat_25,latih,template_tim_entitas_dari_data_retail
+history Scholar Footwear Hardcourt Zephyr di gudang c dong,riwayat,riwayat_25,latih,template_tim_entitas_dari_data_retail
+bang stk PROD-168793 di gdg C aman gk min,cek_stok,cek_stok_44,uji,template_tim_entitas_dari_data_retail
+bang siapa yang input barang masuk SUNPLEON Men's Mid-calf Length Socks?,riwayat,riwayat_22,latih,template_tim_entitas_dari_data_retail
+lihat perubahan stok FKS-SOCEJZT8FMXJ8VHZ bulan lalu gan,riwayat,riwayat_14,uji,template_tim_entitas_dari_data_retail
+woi aktivitas terakhir Scholar Footwear Flight Classic di Gudang C,riwayat,riwayat_35,latih,template_tim_entitas_dari_data_retail
+"halo, tlg buatkan puisi tentang hujan",di_luar_konteks,di_luar_konteks_02,latih,template_tim_entitas_dari_data_retail
+woi slsh di Gudang B sudah beres blm yaa,status_selisih,status_selisih_17,latih,template_tim_entitas_dari_data_retail
+"permisi, cara menghitung pajak penjualan skrg",di_luar_konteks,di_luar_konteks_42,latih,template_tim_entitas_dari_data_retail
+tlg cek apakah PROD-175317 cocok dgn kasir,status_selisih,status_selisih_37,latih,template_tim_entitas_dari_data_retail
+riwayat penyesuaian stok Junior Apparel Trousers Varied yaa,riwayat,riwayat_08,latih,template_tim_entitas_dari_data_retail
+tlg dafatr barang yang tidak ditemukan di berkas kasir pintar,status_selisih,status_selisih_32,latih,template_tim_entitas_dari_data_retail
+kak gmn cara jualan di tiktok,di_luar_konteks,di_luar_konteks_66,latih,template_tim_entitas_dari_data_retail
+bagaimana cara menindaklanjuti selisih please,prosedur_stok,prosedur_stok_09,latih,template_tim_entitas_dari_data_retail
+tlg siapa yg menyetujui aktivitas PROD-167187,riwayat,riwayat_18,latih,template_tim_entitas_dari_data_retail
+tlg ada barang yang jumlahnya beda dengan kaisr pintar?,status_selisih,status_selisih_18,latih,template_tim_entitas_dari_data_retail
+woi stok total Femme Footwear Retro Legend berapa yaa,cek_stok,cek_stok_37,latih,template_tim_entitas_dari_data_retail
+tolong stok Texlon Men's Ankle Length Socks aman yaa,cek_stok,cek_stok_24,latih,template_tim_entitas_dari_data_retail
+tlg cara membuat kue bolu ya,di_luar_konteks,di_luar_konteks_08,latih,template_tim_entitas_dari_data_retail
+"permisi, cara ganti password gmn please",prosedur_stok,prosedur_stok_51,latih,template_tim_entitas_dari_data_retail
+jumlah stok PROD-160709 sekarang,cek_stok,cek_stok_14,latih,template_tim_entitas_dari_data_retail
+min selisih Mode Men's Floral Print Crew Length Socks #PBZKG di Gudang C sudah ditindaklanjuti belum dong,status_selisih,status_selisih_26,uji,template_tim_entitas_dari_data_retail
+coba resep nasi goreng yang enak sekarang,di_luar_konteks,di_luar_konteks_04,latih,template_tim_entitas_dari_data_retail
+"woi apakah selisih Bonjour Ladeis Socks Women's Self Design, Striped Ankle Length Socks sudah selesai ya",status_selisih,status_selisih_06,latih,template_tim_entitas_dari_data_retail
+tolong apa yang terjadi kalau barang keluar melebihi stok,prosedur_stok,prosedur_stok_34,latih,template_tim_entitas_dari_data_retail
+daftar barnag yang tidak ditemukan di berkas kasir pintar yaa,status_selisih,status_selisih_32,latih,template_tim_entitas_dari_data_retail
+"halo, gmn cara catat brg masuk thx",prosedur_stok,prosedur_stok_44,latih,template_tim_entitas_dari_data_retail
+apa itu machine laerning sekarang,di_luar_konteks,di_luar_konteks_34,uji,template_tim_entitas_dari_data_retail
+tolong aktivitas terakhir Scholar Footwear Boot Collection di Gudang B tolong,riwayat,riwayat_35,latih,template_tim_entitas_dari_data_retail
+coba kapan terakhir Mayor Men's Mid-calf Length Socks keluar dari gudang c,riwayat,riwayat_03,latih,template_tim_entitas_dari_data_retail
+tlg ringkas berita hari ini,di_luar_konteks,di_luar_konteks_39,latih,template_tim_entitas_dari_data_retail
+woi kpn stok dianggap menipis?,prosedur_stok,prosedur_stok_20,latih,template_tim_entitas_dari_data_retail
+bisa tolong history Texlon Men's Mid-calf Lentgh Socks di Gudang C min,riwayat,riwayat_25,latih,template_tim_entitas_dari_data_retail
+"permisi, selisih mana yg masih sedang dicek ulang min",status_selisih,status_selisih_05,latih,template_tim_entitas_dari_data_retail
+"halo, bagaimana kalau berkas kasir pintar salah format please",prosedur_stok,prosedur_stok_32,uji,template_tim_entitas_dari_data_retail
+bisa tlg bagaimana cara mengisi alasan penyesuaian?,prosedur_stok,prosedur_stok_19,uji,template_tim_entitas_dari_data_retail
+coba ada slsh baru gk di gdg B,status_selisih,status_selisih_42,latih,template_tim_entitas_dari_data_retail
+jumlah selisih yang sudah selesai ada berapa dong,status_selisih,status_selisih_21,latih,template_tim_entitas_dari_data_retail
+coba stok PROD-139834 di gdg A cukup gak dong,cek_stok,cek_stok_32,latih,template_tim_entitas_dari_data_retail
+apa itu macihne learning?,di_luar_konteks,di_luar_konteks_34,uji,template_tim_entitas_dari_data_retail
+min perubahan stok Scholar Footwear Hardcourt Zephyr minggu lalu gan,riwayat,riwayat_27,latih,template_tim_entitas_dari_data_retail
+mba bagaimana cara mengekspor laporan tolong,prosedur_stok,prosedur_stok_37,latih,template_tim_entitas_dari_data_retail
+bisa tolong apa PROD-168840 sedang kosong di Gudang A ya,cek_stok,cek_stok_39,uji,template_tim_entitas_dari_data_retail
+"halo, slsh Kaos Kaki yg msh kebuka apa aja dong",status_selisih,status_selisih_46,latih,template_tim_entitas_dari_data_retail
+mba jumlah stok PROD-161865 sekarang yaa,cek_stok,cek_stok_14,latih,template_tim_entitas_dari_data_retail
+kak berapa total pendapatan hari ini,di_luar_konteks,di_luar_konteks_47,uji,template_tim_entitas_dari_data_retail
+bang histroy stok PROD-175758 ya,riwayat,riwayat_10,latih,template_tim_entitas_dari_data_retail
+woi gmn cara mengekspor lapoarn thx,prosedur_stok,prosedur_stok_37,latih,template_tim_entitas_dari_data_retail
+tlg brg keluar kok gk bisa lebih dr stk knp please,prosedur_stok,prosedur_stok_46,uji,template_tim_entitas_dari_data_retail
+apa PROD-145810 sedang kosong di Gudnag A min,cek_stok,cek_stok_39,uji,template_tim_entitas_dari_data_retail
+tlg tampilkan semua selisih yang belum selesai,status_selisih,status_selisih_11,latih,template_tim_entitas_dari_data_retail
+"permisi, cara memperbaiki laptop yang lambat sekarang",di_luar_konteks,di_luar_konteks_25,latih,template_tim_entitas_dari_data_retail
+apa itu machine learning nih,di_luar_konteks,di_luar_konteks_34,uji,template_tim_entitas_dari_data_retail
+coba sisa PROD-157428 brp gan,cek_stok,cek_stok_23,latih,template_tim_entitas_dari_data_retail
+min gudang mana yang stok PROD-184561 paling sedikit,cek_stok,cek_stok_35,latih,template_tim_entitas_dari_data_retail
+min ada berapa selisih yang belum dicek please,status_selisih,status_selisih_02,latih,template_tim_entitas_dari_data_retail
+tolong siapa yg input barang masuk Sonpra Men's Mid-calf Length Socks thx,riwayat,riwayat_22,latih,template_tim_entitas_dari_data_retail
+berapa kurs dolar hari ini,di_luar_konteks,di_luar_konteks_03,uji,template_tim_entitas_dari_data_retail
+bisa tolong daftar selisih yang menunggu validasi min,status_selisih,status_selisih_04,latih,template_tim_entitas_dari_data_retail
+aktivitas staff hari ini apa saja gan,riwayat,riwayat_05,latih,template_tim_entitas_dari_data_retail
+cara memperbaiki laptop yang lambat,di_luar_konteks,di_luar_konteks_25,latih,template_tim_entitas_dari_data_retail
+mba siapa pemliik toko pesaing yaa,di_luar_konteks,di_luar_konteks_60,latih,template_tim_entitas_dari_data_retail
+bagaimana cara mengunggah berkas kasir pintar dong,prosedur_stok,prosedur_stok_06,latih,template_tim_entitas_dari_data_retail
+kalo aktivitas ditolak spv hrs gmn?,prosedur_stok,prosedur_stok_47,latih,template_tim_entitas_dari_data_retail
+slsh Femme Footwear Trailblazer Zephyr di gdg C udah ditindaklanjuti blm sekarang,status_selisih,status_selisih_26,uji,template_tim_entitas_dari_data_retail
+cek slsh Junior Apparel Crew Tees Zephyr dong ya,status_selisih,status_selisih_47,latih,template_tim_entitas_dari_data_retail
+stk Junior Apparel Printed Tees Varied brp nih,cek_stok,cek_stok_41,latih,template_tim_entitas_dari_data_retail
+tolong kapan stk dianggap menipis,prosedur_stok,prosedur_stok_20,latih,template_tim_entitas_dari_data_retail
+coba cek status selisih Junior Apparel Miscellany Varied yaa,status_selisih,status_selisih_19,latih,template_tim_entitas_dari_data_retail
+bagaimana cara berjaulan lewat whatsapp gan,di_luar_konteks,di_luar_konteks_17,latih,template_tim_entitas_dari_data_retail
+promo apa yang cocok untuk ahkir tahun thx,di_luar_konteks,di_luar_konteks_46,uji,template_tim_entitas_dari_data_retail
+bisa tlg selisih Mode Men's Floral Print Crew Length Socks #UGYX4 di gudang a sudah ditindaklanjuti belum?,status_selisih,status_selisih_26,uji,template_tim_entitas_dari_data_retail
+coba stok Femme Footwear Traliblazer Swift Run aman nih,cek_stok,cek_stok_24,latih,template_tim_entitas_dari_data_retail
+woi gudang mana yang stok Mode Men's Floral Print Crew Length Socks #JGVYU paling banyak thx,cek_stok,cek_stok_34,latih,template_tim_entitas_dari_data_retail
+lihat riwayat barang masuk di gudang a,riwayat,riwayat_06,latih,template_tim_entitas_dari_data_retail
+kak jumlah stok PROD-139863 sekarang dong,cek_stok,cek_stok_14,latih,template_tim_entitas_dari_data_retail
+mba brp slsh yg blm kelar ya,status_selisih,status_selisih_44,uji,template_tim_entitas_dari_data_retail
+mba cara ngitung stk fisik gmn tlg,prosedur_stok,prosedur_stok_49,latih,template_tim_entitas_dari_data_retail
+"permisi, cara membuat kue bolu yaa",di_luar_konteks,di_luar_konteks_08,latih,template_tim_entitas_dari_data_retail
+bang siapa yg input brg masuk PROD-166163 toolng,riwayat,riwayat_44,latih,template_tim_entitas_dari_data_retail
+kalo aktivitas ditolak spv hrs gmn please,prosedur_stok,prosedur_stok_47,latih,template_tim_entitas_dari_data_retail
+coba berapa barang yang selisihnya belum dicek ulang yaa,status_selisih,status_selisih_14,uji,template_tim_entitas_dari_data_retail
+bisa tolong hasil pencocokan kasir pintar untuk PROD-154466 bagaimana min,status_selisih,status_selisih_16,latih,template_tim_entitas_dari_data_retail
+bisa tolong siapa yang terakhir menyesuaikan stok PROD-100359 nih,riwayat,riwayat_28,latih,template_tim_entitas_dari_data_retail
+woi berapa ongkos kirim ke jakarta tolong,di_luar_konteks,di_luar_konteks_58,latih,template_tim_entitas_dari_data_retail
+sisa barang Femme Footwear Boot Collection di gdg A dong,cek_stok,cek_stok_13,uji,template_tim_entitas_dari_data_retail
+woi bagaimana cara menguabh password sekarang,prosedur_stok,prosedur_stok_17,latih,template_tim_entitas_dari_data_retail
+coba ada stok Junior Apparel Printed Tees Varied atau sudah habis ya,cek_stok,cek_stok_31,latih,template_tim_entitas_dari_data_retail
+"halo, tolong hitung diskon 20 persen dari 150000 sekarang",di_luar_konteks,di_luar_konteks_59,latih,template_tim_entitas_dari_data_retail
+tlg gudang mana yang stok FKS-SOCEGHEYK3GZHHEP paling sedikit min,cek_stok,cek_stok_35,latih,template_tim_entitas_dari_data_retail
+bang apa tren fashion tahun ini min,di_luar_konteks,di_luar_konteks_53,latih,template_tim_entitas_dari_data_retail
+"permisi, ada berapa selisih yang masih terbuka min",status_selisih,status_selisih_23,latih,template_tim_entitas_dari_data_retail
+kamu siapa min,di_luar_konteks,di_luar_konteks_22,uji,template_tim_entitas_dari_data_retail
+bisa tolong selisih di gudang a sudah beres belum nih,status_selisih,status_selisih_17,latih,template_tim_entitas_dari_data_retail
+"permisi, Mayor Men's Ankle Length Socks abis gk di gdg A thx",cek_stok,cek_stok_47,latih,template_tim_entitas_dari_data_retail
+coba cek Mode Men's Floral Print Crew Length Socks #QKHV2 di Gudang C dong,cek_stok,cek_stok_26,latih,template_tim_entitas_dari_data_retail
+apa fungsi menu riwayat yaa,prosedur_stok,prosedur_stok_27,uji,template_tim_entitas_dari_data_retail
+min jejak perubahan stk PROD-160853,riwayat,riwayat_20,uji,template_tim_entitas_dari_data_retail
+lihat aktivitas staff di Guadng B kmrn gan,riwayat,riwayat_26,latih,template_tim_entitas_dari_data_retail
+min tinggal brp Junior Apparel Crop Pants Varied di gdg A min,cek_stok,cek_stok_27,latih,template_tim_entitas_dari_data_retail
+bang apakah selisih Camey Men's Quarter Length Socks #5M4D3 udah selesai thx,status_selisih,status_selisih_06,latih,template_tim_entitas_dari_data_retail
+bang slsh Junior Apparel Light Shells yg msh kebuka apa aja,status_selisih,status_selisih_46,latih,template_tim_entitas_dari_data_retail
+bang catatan perpindahan NBA Women's Solid Ankle Length Socks antar gudang tolong,riwayat,riwayat_04,latih,template_tim_entitas_dari_data_retail
+bang tlg hitung 125 dikali 8 ya,di_luar_konteks,di_luar_konteks_20,latih,template_tim_entitas_dari_data_retail
+bang liaht siapa yg mengubah PROD-165077 hari ini nih,riwayat,riwayat_34,latih,template_tim_entitas_dari_data_retail
+mba apa PROD-181303 sedang kosong di gdg A min,cek_stok,cek_stok_39,uji,template_tim_entitas_dari_data_retail
+tlg bikinin caption ig nih,di_luar_konteks,di_luar_konteks_65,latih,template_tim_entitas_dari_data_retail
+mba resep nasi goreng yg enak?,di_luar_konteks,di_luar_konteks_04,latih,template_tim_entitas_dari_data_retail
+bang riwayat stk fisik Scholar Footwear Trailblazer Swift Run please,riwayat,riwayat_33,uji,template_tim_entitas_dari_data_retail
+"halo, jejak perubahan stok PROD-156885",riwayat,riwayat_20,uji,template_tim_entitas_dari_data_retail
+woi bagaimana cara mengubah password nih,prosedur_stok,prosedur_stok_17,latih,template_tim_entitas_dari_data_retail
+min apa itu machine learning,di_luar_konteks,di_luar_konteks_34,uji,template_tim_entitas_dari_data_retail
+kak cara melihat catatan penolakan dari spv?,prosedur_stok,prosedur_stok_33,latih,template_tim_entitas_dari_data_retail
+mba cek stk PROD-152225 dong,cek_stok,cek_stok_46,uji,template_tim_entitas_dari_data_retail
+info stok PROD-168094 di gdg A yaa,cek_stok,cek_stok_10,latih,template_tim_entitas_dari_data_retail
+lht riwayat Reebok Men's Ankle Length Socks di gdg A,riwayat,riwayat_46,latih,template_tim_entitas_dari_data_retail
+"halo, gmn cara melihat riwayat brg skrg",prosedur_stok,prosedur_stok_23,latih,template_tim_entitas_dari_data_retail
+kak barang mana yang stoknya di bawah minimum,cek_stok,cek_stok_21,latih,template_tim_entitas_dari_data_retail
+tlg tampilin commit terakhir untuk Junior Apparel Cozy Trousers Varied nih,riwayat,riwayat_19,uji,template_tim_entitas_dari_data_retail
+bagaimana cara deep cleaning gudang min,di_luar_konteks,di_luar_konteks_23,latih,template_tim_entitas_dari_data_retail
+tampilkan semua aktivitas yg masih diajukan?,riwayat,riwayat_38,latih,template_tim_entitas_dari_data_retail
+mba bagaimana cara input stok fisik sekarang,prosedur_stok,prosedur_stok_03,latih,template_tim_entitas_dari_data_retail
+woi cek stk PROD-165591 dong please,cek_stok,cek_stok_46,uji,template_tim_entitas_dari_data_retail
+woi perubahan stk Junior Apparel Cozy Trousers Zephyr minggu lalu?,riwayat,riwayat_27,latih,template_tim_entitas_dari_data_retail
+bang selisih PROD-100805 sudah beres belum nih,status_selisih,status_selisih_22,latih,template_tim_entitas_dari_data_retail
+woi ada selisih baru di gdg B gak?,status_selisih,status_selisih_12,uji,template_tim_entitas_dari_data_retail
+woi kapan terakhir ada baarng masuk di gudang b dong,riwayat,riwayat_16,uji,template_tim_entitas_dari_data_retail
+stok Scholar Footwear Canvas Styles Drifter di gudang a berapa,cek_stok,cek_stok_00,latih,template_tim_entitas_dari_data_retail
+bisa tolong selisih apa yang masih menunggu hitung ulang?,status_selisih,status_selisih_29,latih,template_tim_entitas_dari_data_retail
+bang brp stk PROD-138970 di gudang a min,cek_stok,cek_stok_42,latih,template_tim_entitas_dari_data_retail
+tlg berapa pcs Junior Apparel Trousers Varied yang tresedia ya,cek_stok,cek_stok_33,latih,template_tim_entitas_dari_data_retail
+bang berapa harga sepatu di tokopedia min,di_luar_konteks,di_luar_konteks_40,latih,template_tim_entitas_dari_data_retail
+"permisi, siapa persiden indonesia skrg",di_luar_konteks,di_luar_konteks_01,latih,template_tim_entitas_dari_data_retail
+bisa tolong apa fungsi menu riwayat please,prosedur_stok,prosedur_stok_27,uji,template_tim_entitas_dari_data_retail
+bisa tolong kapan hari libur nasional berikutnya?,di_luar_konteks,di_luar_konteks_55,latih,template_tim_entitas_dari_data_retail
+bisa tlg slsh brg PROD-153840 udh dieck ulang blm nih,status_selisih,status_selisih_43,latih,template_tim_entitas_dari_data_retail
+coba apa itu machine learning,di_luar_konteks,di_luar_konteks_34,uji,template_tim_entitas_dari_data_retail
+coba siapa yg input brg masuk Scholar Footwear Trailblzaer Varied min,riwayat,riwayat_22,latih,template_tim_entitas_dari_data_retail
+tlg apa yang dimaksud minimum stok gan,prosedur_stok,prosedur_stok_21,latih,template_tim_entitas_dari_data_retail
+min selisih kategori Scholar Footwear Sandals berapa banyak?,status_selisih,status_selisih_33,latih,template_tim_entitas_dari_data_retail
+tlg stok fiisk Texlon Men's Mid-calf Length Socks sama dengan catatan gak,status_selisih,status_selisih_36,latih,template_tim_entitas_dari_data_retail
+tlg langkah membuat penyesuaian stok?,prosedur_stok,prosedur_stok_25,latih,template_tim_entitas_dari_data_retail
+min daftar barang yang tidak ditemukan di berkas kasir pintar min,status_selisih,status_selisih_32,latih,template_tim_entitas_dari_data_retail
+"permisi, cek Femme Footwear Retro Legend Summit di Gudang A yaa",cek_stok,cek_stok_26,latih,template_tim_entitas_dari_data_retail
+tlg gdg mana yg stok PROD-153840 paling sedikit,cek_stok,cek_stok_35,latih,template_tim_entitas_dari_data_retail
+min kamu siapa thx,di_luar_konteks,di_luar_konteks_22,uji,template_tim_entitas_dari_data_retail
+tlg cara menghitung pajak penjualan nih,di_luar_konteks,di_luar_konteks_42,latih,template_tim_entitas_dari_data_retail
+kak apa bedanya stok sistem dan stok fisik thx,prosedur_stok,prosedur_stok_15,latih,template_tim_entitas_dari_data_retail
+min info stk PROD-171847 di gdg A skrg,cek_stok,cek_stok_10,latih,template_tim_entitas_dari_data_retail
+coba cek status selisih Caemy Men's Quarter Length Socks #5M4D3 thx,status_selisih,status_selisih_19,latih,template_tim_entitas_dari_data_retail
+berapa ongkos kirim ke jakarta,di_luar_konteks,di_luar_konteks_58,latih,template_tim_entitas_dari_data_retail
+woi stk kategori Junior Apparel Cozy Pullovers tersisa brp nih,cek_stok,cek_stok_05,latih,template_tim_entitas_dari_data_retail
+"halo, riwayat PROD-160239 bulan ini sekarang",riwayat,riwayat_24,latih,template_tim_entitas_dari_data_retail
+bisa tolong siapa yang input barang masuk Scholar Footwear Trailblazer Feilne min,riwayat,riwayat_22,latih,template_tim_entitas_dari_data_retail
+tolong kenapa stok FKS-SOCEJPT5BGXPBZKG beda dengan kasir pintar dong,status_selisih,status_selisih_31,latih,template_tim_entitas_dari_data_retail
+kak apa arti status selesai pada slsh thx,prosedur_stok,prosedur_stok_41,latih,template_tim_entitas_dari_data_retail
+"permisi, apakah slsh PROD-168765 udah selesai",status_selisih,status_selisih_34,uji,template_tim_entitas_dari_data_retail
+bisa tolong barang yang stoknya habis di Gudang C apa saja sekarang,cek_stok,cek_stok_15,latih,template_tim_entitas_dari_data_retail
+bang kapan saya harus membuat penyesuaian stok,prosedur_stok,prosedur_stok_05,latih,template_tim_entitas_dari_data_retail
+apa itu machine learning yaa,di_luar_konteks,di_luar_konteks_34,uji,template_tim_entitas_dari_data_retail
+mba harga bitcoin sekarang berapa,di_luar_konteks,di_luar_konteks_09,latih,template_tim_entitas_dari_data_retail
+min rekomendasi tempat makan di samarinda please,di_luar_konteks,di_luar_konteks_24,latih,template_tim_entitas_dari_data_retail
+tlg cek status slsh Junior Apparel Outer Shells Varied?,status_selisih,status_selisih_19,latih,template_tim_entitas_dari_data_retail
+kak aktivitas yg ditolak spv minggu ini apa saja ya,riwayat,riwayat_15,uji,template_tim_entitas_dari_data_retail
+"halo, apa tren fahsion tahun ini",di_luar_konteks,di_luar_konteks_53,latih,template_tim_entitas_dari_data_retail
+kak apa yang dimaksud minimum stok,prosedur_stok,prosedur_stok_21,latih,template_tim_entitas_dari_data_retail
+min stok PROD-179167 gudang b ada berapa thx,cek_stok,cek_stok_12,latih,template_tim_entitas_dari_data_retail
+tlg Junior Apparel Crop Pants Zephyr ready gak di gudang a sekarang,cek_stok,cek_stok_22,latih,template_tim_entitas_dari_data_retail
+selisih Mode Men's Floral Print Crew Length Socks #Z7QQP di gudang a sudah ditindaklanjuti belum tolong,status_selisih,status_selisih_26,uji,template_tim_entitas_dari_data_retail
+"halo, rekomendasi barang yang laris minggu depan dong",di_luar_konteks,di_luar_konteks_52,uji,template_tim_entitas_dari_data_retail
+"permisi, cara mneolak aktivitas staff bagi spv min",prosedur_stok,prosedur_stok_26,latih,template_tim_entitas_dari_data_retail
+kak rekomen resto enak dong tolong,di_luar_konteks,di_luar_konteks_68,latih,template_tim_entitas_dari_data_retail
+cara menurunkan berat badan thx,di_luar_konteks,di_luar_konteks_15,uji,template_tim_entitas_dari_data_retail
+bang tinggal brp Schoalr Footwear Flight Classic Zephyr di Gudang C,cek_stok,cek_stok_27,latih,template_tim_entitas_dari_data_retail
+tolong riwayat Schloar Footwear Canvas Styles di gudang c tolong,riwayat,riwayat_17,uji,template_tim_entitas_dari_data_retail
+"halo, gmn cara mengisi hasil hitung fisik thx",prosedur_stok,prosedur_stok_39,latih,template_tim_entitas_dari_data_retail
+"halo, cek status selisih DOUBLE HORSE Men's Solid No Show Socks",status_selisih,status_selisih_19,latih,template_tim_entitas_dari_data_retail
+mba history stok PROD-168840 sekarang,riwayat,riwayat_10,latih,template_tim_entitas_dari_data_retail
+coba siapa yang boleh menghapus barang,prosedur_stok,prosedur_stok_40,latih,template_tim_entitas_dari_data_retail
+bisa tolong cara menolak aktivitas staff bagi spv gan,prosedur_stok,prosedur_stok_26,latih,template_tim_entitas_dari_data_retail
+bisa tolong siapa yang input barang masuk Junior Apparel Trousers Varied gan,riwayat,riwayat_22,latih,template_tim_entitas_dari_data_retail
+min rekomen resto enak dong tlg,di_luar_konteks,di_luar_konteks_68,latih,template_tim_entitas_dari_data_retail
+"permisi, barnag apa saja yang stoknya menipis di Gudang A dong",cek_stok,cek_stok_06,uji,template_tim_entitas_dari_data_retail
+coba gudang mana yang stok Mode Men's Floral Print Crew Length Scoks #Z7QQP paling banyak?,cek_stok,cek_stok_34,latih,template_tim_entitas_dari_data_retail
+bisa tlg bagaimana status selisih Femme Footwear Modern Legend Summit gan,status_selisih,status_selisih_01,uji,template_tim_entitas_dari_data_retail
+"permisi, barang mana yang selisihnya paling besar yaa",status_selisih,status_selisih_28,latih,template_tim_entitas_dari_data_retail
+tlg sipaa yang boleh menghapus barang?,prosedur_stok,prosedur_stok_40,latih,template_tim_entitas_dari_data_retail
+"halo, cara mengemas dan mengirim paket ya",di_luar_konteks,di_luar_konteks_18,latih,template_tim_entitas_dari_data_retail
+kak apakah Femme Footwear Trailblazer Swift Run masih tersedia ya,cek_stok,cek_stok_11,uji,template_tim_entitas_dari_data_retail
+barnag yg stoknya habis di Gudang C apa saja dong,cek_stok,cek_stok_15,latih,template_tim_entitas_dari_data_retail
+tlg siapa pemenang piala dunia terakhir sekarang,di_luar_konteks,di_luar_konteks_11,latih,template_tim_entitas_dari_data_retail
+format berkas kasir pintar yang benar seperti apa,prosedur_stok,prosedur_stok_07,latih,template_tim_entitas_dari_data_retail
+min riwayat penyesuaian stok Junior Apparel Crop Pants Varied min,riwayat,riwayat_08,latih,template_tim_entitas_dari_data_retail
+coba lihat jumlah Scholar Footwear Trailblazer Equilibrium yang ada di gudang dong,cek_stok,cek_stok_38,uji,template_tim_entitas_dari_data_retail
+tlg Mode Men's Floral Print Crew Length Socks #Z7QQP ada selisihnya gak thx,status_selisih,status_selisih_24,latih,template_tim_entitas_dari_data_retail
+mba saipa presiden indonesia sekarang sekarang,di_luar_konteks,di_luar_konteks_01,latih,template_tim_entitas_dari_data_retail
+bang bagaimana kalau berkas kasir pintar salah format nih,prosedur_stok,prosedur_stok_32,uji,template_tim_entitas_dari_data_retail
+berapa gaji karyawan toko min,di_luar_konteks,di_luar_konteks_28,uji,template_tim_entitas_dari_data_retail
+tolong bagaimana cara mengubah password,prosedur_stok,prosedur_stok_17,latih,template_tim_entitas_dari_data_retail
+format berkas kasir pintar yang benar seperti apa ya,prosedur_stok,prosedur_stok_07,latih,template_tim_entitas_dari_data_retail
+tlg aktivitas terakhir Femme Footwear Boot Collection di gdg B sekarang,riwayat,riwayat_35,latih,template_tim_entitas_dari_data_retail
+bisa tolong slsh Femme Footwear Trailblaezr Zephyr gmn statusnya please,status_selisih,status_selisih_41,latih,template_tim_entitas_dari_data_retail
+"permisi, stok PROD-175326 di semua gudang min",cek_stok,cek_stok_18,uji,template_tim_entitas_dari_data_retail
+"permisi, siapa yang menloak aktivitas FKS-SOCEGHM6JKRDJY33",riwayat,riwayat_32,latih,template_tim_entitas_dari_data_retail
+brp pcs Junior Apparel Trousers Varied yg tersedia thx,cek_stok,cek_stok_33,latih,template_tim_entitas_dari_data_retail
+min apa itu machine learning sekarang,di_luar_konteks,di_luar_konteks_34,uji,template_tim_entitas_dari_data_retail
+coba Scholar Footwear Sandals Varied msh ada gk nih,cek_stok,cek_stok_43,latih,template_tim_entitas_dari_data_retail
+bang sisa brg Scholar Footwear Modern Legend di Gudang B yaa,cek_stok,cek_stok_13,uji,template_tim_entitas_dari_data_retail
+tlg history stk PROD-162214 thx,riwayat,riwayat_10,latih,template_tim_entitas_dari_data_retail
+coba lihat jumlah Junior Apparel Cozy Trousers Family Line yang ada di gudang nih,cek_stok,cek_stok_38,uji,template_tim_entitas_dari_data_retail
+coba stok PROD-188459 di semua gudang,cek_stok,cek_stok_18,uji,template_tim_entitas_dari_data_retail
+min apa itu inflasi min,di_luar_konteks,di_luar_konteks_61,latih,template_tim_entitas_dari_data_retail
+tolong tampilkan aktivitas terakhir di Gudang A nih,riwayat,riwayat_11,latih,template_tim_entitas_dari_data_retail
+cara ngitung stk fisik gmn,prosedur_stok,prosedur_stok_49,latih,template_tim_entitas_dari_data_retail
+tolong tlg hitung 125 dikali 8 ya,di_luar_konteks,di_luar_konteks_20,latih,template_tim_entitas_dari_data_retail
+tlg kapan terakhir ada barang masuk di Gudang A tolong,riwayat,riwayat_16,uji,template_tim_entitas_dari_data_retail
+kak brg mana yang sleisihnya paling besar yaa,status_selisih,status_selisih_28,latih,template_tim_entitas_dari_data_retail
+woi rekomen resto enak dong skrg,di_luar_konteks,di_luar_konteks_68,latih,template_tim_entitas_dari_data_retail
+coba kapan saya harus membuat penyesuaian stok dong,prosedur_stok,prosedur_stok_05,latih,template_tim_entitas_dari_data_retail
+tlg berapa jumlah selisih hasil impor kasir pintar terakhir gan,status_selisih,status_selisih_07,uji,template_tim_entitas_dari_data_retail
+bisa tlg tolong cek jumlah stk Femme Footwear Boot Collection Plushfoot di Gudang C min,cek_stok,cek_stok_04,latih,template_tim_entitas_dari_data_retail
+tolong siapa penemu telepon ya,di_luar_konteks,di_luar_konteks_26,uji,template_tim_entitas_dari_data_retail
+bang daftar selisih yang menunggu validasi?,status_selisih,status_selisih_04,latih,template_tim_entitas_dari_data_retail
+woi brp omzet kmrn yaa,di_luar_konteks,di_luar_konteks_67,latih,template_tim_entitas_dari_data_retail
+selisih FKS-SOCEJAC9BYVSNPTP sudah beres blm,status_selisih,status_selisih_22,latih,template_tim_entitas_dari_data_retail
+tolong selisih mana yang masih sedang dicek ulang yaa,status_selisih,status_selisih_05,latih,template_tim_entitas_dari_data_retail
+gudang mana yang stok Scholar Footwear Sandals Varied paling banyak yaa,cek_stok,cek_stok_34,latih,template_tim_entitas_dari_data_retail
+min apa fungsi menu riwayat nih,prosedur_stok,prosedur_stok_27,uji,template_tim_entitas_dari_data_retail
+bang cara mengaktifkan akun lewat email ya,prosedur_stok,prosedur_stok_16,latih,template_tim_entitas_dari_data_retail
+min rekomen retso enak dong,di_luar_konteks,di_luar_konteks_68,latih,template_tim_entitas_dari_data_retail
+tlg slsh Junior Apparel Light Shells yang masih terbuka apa saja gan,status_selisih,status_selisih_15,latih,template_tim_entitas_dari_data_retail
+tlg lht riwayat Scholar Footwear Court Casual Trident di gudang b please,riwayat,riwayat_46,latih,template_tim_entitas_dari_data_retail
+"permisi, cara membuat logo toko yaa",di_luar_konteks,di_luar_konteks_57,latih,template_tim_entitas_dari_data_retail
+"halo, kapan stok dianggap menpiis",prosedur_stok,prosedur_stok_20,latih,template_tim_entitas_dari_data_retail
+"permisi, tolong hitung diskon 20 persen dari 150000 yaa",di_luar_konteks,di_luar_konteks_59,latih,template_tim_entitas_dari_data_retail
+bisa tolong laporan keuangan bulan lalu gan,di_luar_konteks,di_luar_konteks_29,latih,template_tim_entitas_dari_data_retail
+mba apa yang dimaksud minimum stok,prosedur_stok,prosedur_stok_21,latih,template_tim_entitas_dari_data_retail
+cek ketersediaan PROD-161861 nih,cek_stok,cek_stok_20,latih,template_tim_entitas_dari_data_retail
+tolong buatkan puisi tentang hujan min,di_luar_konteks,di_luar_konteks_02,latih,template_tim_entitas_dari_data_retail
+"halo, buatkan caption instagram untuk produk yaa",di_luar_konteks,di_luar_konteks_27,latih,template_tim_entitas_dari_data_retail
+min riwayat Scholar Footwear Canvas Styles di Gudang C,riwayat,riwayat_17,uji,template_tim_entitas_dari_data_retail
+apa itu inflsai ya,di_luar_konteks,di_luar_konteks_61,latih,template_tim_entitas_dari_data_retail
+cara membuat kue bolu ya,di_luar_konteks,di_luar_konteks_08,latih,template_tim_entitas_dari_data_retail
+coba kapan PROD-168823 terakhir dicek please,riwayat,riwayat_09,latih,template_tim_entitas_dari_data_retail
+min sisa brg Junior Apparel Trousers di gdg c gan,cek_stok,cek_stok_13,uji,template_tim_entitas_dari_data_retail
+tlg apakah riwayat aktivitas bisa dihapus,prosedur_stok,prosedur_stok_18,latih,template_tim_entitas_dari_data_retail
+cara membuat kue bolu thx,di_luar_konteks,di_luar_konteks_08,latih,template_tim_entitas_dari_data_retail
+"permisi, cek stok PROD-145911 sekarang",cek_stok,cek_stok_02,latih,template_tim_entitas_dari_data_retail
+bisa tolong bagaimana cara input stok fisik,prosedur_stok,prosedur_stok_03,latih,template_tim_entitas_dari_data_retail
+bisa tolong cara melihat catatan penolakan dr spv tlg,prosedur_stok,prosedur_stok_33,latih,template_tim_entitas_dari_data_retail
+tlg cek sisa stok seuma brg Scholar Footwear Modern Legend ya,cek_stok,cek_stok_40,latih,template_tim_entitas_dari_data_retail
+tlg gmn cara catat brg masuk,prosedur_stok,prosedur_stok_44,latih,template_tim_entitas_dari_data_retail
+bang brg keluar kok gk bisa lebih dr stk knp min,prosedur_stok,prosedur_stok_46,uji,template_tim_entitas_dari_data_retail
+"permisi, siapa pemenang piala dunia terakhir ya",di_luar_konteks,di_luar_konteks_11,latih,template_tim_entitas_dari_data_retail
+berapa banyak Junior Apparel Miscellany yang ada di gdg B,cek_stok,cek_stok_19,latih,template_tim_entitas_dari_data_retail
+ada slsh baru gk di gdg C sekarang,status_selisih,status_selisih_42,latih,template_tim_entitas_dari_data_retail
+gmn cara catat brg masuk please,prosedur_stok,prosedur_stok_44,latih,template_tim_entitas_dari_data_retail
+tlg sisa brg Junior Apparel Printed Tees di gdg a brp thx,cek_stok,cek_stok_45,latih,template_tim_entitas_dari_data_retail
+coba cek status selisih Junior Apparel Crew Tees Varied ya,status_selisih,status_selisih_19,latih,template_tim_entitas_dari_data_retail
+coba selisih PROD-193600 statusnya apa sekarang thx,status_selisih,status_selisih_03,latih,template_tim_entitas_dari_data_retail
+"permisi, berapa jmulah penduduk indonesia thx",di_luar_konteks,di_luar_konteks_35,latih,template_tim_entitas_dari_data_retail
+coba kapan PROD-184561 terakhir dicek thx,riwayat,riwayat_09,latih,template_tim_entitas_dari_data_retail
+tolong tips diet sehat tolong,di_luar_konteks,di_luar_konteks_30,latih,template_tim_entitas_dari_data_retail
+cara mencatat brg keluar gmn please,prosedur_stok,prosedur_stok_01,latih,template_tim_entitas_dari_data_retail
+tolong Junior Apparel Printed Tees Varied abis gk di gdg A yaa,cek_stok,cek_stok_47,latih,template_tim_entitas_dari_data_retail
+stk total Junior Apparel Miscellany berapa?,cek_stok,cek_stok_37,latih,template_tim_entitas_dari_data_retail
+min lihat stok Mayor Men's Ankle Length Socks per gudang gan,cek_stok,cek_stok_17,latih,template_tim_entitas_dari_data_retail
+selisih mana yang masih sedang dicek ulnag tolong,status_selisih,status_selisih_05,latih,template_tim_entitas_dari_data_retail
+woi kapan tahun baru imlek dong,di_luar_konteks,di_luar_konteks_32,latih,template_tim_entitas_dari_data_retail
+min brg apa yg perlu direstok di Gudang B,cek_stok,cek_stok_36,latih,template_tim_entitas_dari_data_retail
+lihat siapa yang mengubah FKS-SOCEJPT5YDSZ7QQP hari ini?,riwayat,riwayat_34,latih,template_tim_entitas_dari_data_retail
+mba harga bitcoin sekarang brp dong,di_luar_konteks,di_luar_konteks_09,latih,template_tim_entitas_dari_data_retail
+bagaimana cara membuka cabang baru?,di_luar_konteks,di_luar_konteks_31,uji,template_tim_entitas_dari_data_retail
+cek stk FKS-SOCEDFAY5EHHZKUF,cek_stok,cek_stok_02,latih,template_tim_entitas_dari_data_retail
+coba siapa pemilik toko pesaing thx,di_luar_konteks,di_luar_konteks_60,latih,template_tim_entitas_dari_data_retail
+bisa tolong lihat stok Scholar Footwear Canvas Styles Drifter per gudang,cek_stok,cek_stok_17,latih,template_tim_entitas_dari_data_retail
+catatan perpindahan Sonrpa Men's Mid-calf Length Socks antar gdg tolong,riwayat,riwayat_04,latih,template_tim_entitas_dari_data_retail
+tlg history stok FKS-SOCEGHFY7ZZ9G48G sekarang,riwayat,riwayat_10,latih,template_tim_entitas_dari_data_retail
+mba status tindak lanjut selisih FKS-SOCEJ8CMEXAHFHJ5 yaa,status_selisih,status_selisih_13,uji,template_tim_entitas_dari_data_retail
+"permisi, barang mana yang selisihnya paling besar",status_selisih,status_selisih_28,latih,template_tim_entitas_dari_data_retail
+kak tolong buatkan puisi tentang hujan gan,di_luar_konteks,di_luar_konteks_02,latih,template_tim_entitas_dari_data_retail
+coba aktivitas terakhir Scholar Footwear Modern Legend di gudang a sekarang,riwayat,riwayat_35,latih,template_tim_entitas_dari_data_retail
+tlg siapa yg menolak aktivitas PROD-190490 ya,riwayat,riwayat_32,latih,template_tim_entitas_dari_data_retail
+bang bagaimana cara menghitung ulang stok fisik di gudang gan,prosedur_stok,prosedur_stok_12,latih,template_tim_entitas_dari_data_retail
+mba gmn cara julaan di tiktok tolong,di_luar_konteks,di_luar_konteks_66,latih,template_tim_entitas_dari_data_retail
+kak brg keluar kok gk bisa lebih dr stk knp thx,prosedur_stok,prosedur_stok_46,uji,template_tim_entitas_dari_data_retail
+selisih PROD-100453 sudah divalidasi spv belum tolong,status_selisih,status_selisih_10,uji,template_tim_entitas_dari_data_retail
+kak catatan penyesuaian di Gudang A dong,riwayat,riwayat_21,latih,template_tim_entitas_dari_data_retail
+woi bagaimana status selisih Mode Men's Floral Print Crew Length Socks #QNRYU please,status_selisih,status_selisih_01,uji,template_tim_entitas_dari_data_retail
+woi tampilkan semua selisih yang belum selesai?,status_selisih,status_selisih_11,latih,template_tim_entitas_dari_data_retail
+"halo, jumlah stok PROD-154448 sekarang gan",cek_stok,cek_stok_14,latih,template_tim_entitas_dari_data_retail
+min jadwal bioskop malam ini sekarang,di_luar_konteks,di_luar_konteks_05,latih,template_tim_entitas_dari_data_retail
+"halo, kapan stok fisik harus dihitung please",prosedur_stok,prosedur_stok_30,latih,template_tim_entitas_dari_data_retail
+woi perubahan stk Scholar Footwear Boot Collection Woodland minggu lalu tlg,riwayat,riwayat_27,latih,template_tim_entitas_dari_data_retail
+kak cuaca besok di jakarta,di_luar_konteks,di_luar_konteks_38,uji,template_tim_entitas_dari_data_retail
+kak tampilkan riwayat HANS Men's Crew Length Socks #DGFMF di gudang c sekarang,riwayat,riwayat_01,latih,template_tim_entitas_dari_data_retail
+coba cara memasang aplikasi kasir di toko baru,di_luar_konteks,di_luar_konteks_48,latih,template_tim_entitas_dari_data_retail
+siapa yang menyetujui aktivitas PROD-159366 please,riwayat,riwayat_18,latih,template_tim_entitas_dari_data_retail
+min kpn stok dianggap menipis tlg,prosedur_stok,prosedur_stok_20,latih,template_tim_entitas_dari_data_retail
+bagaimana cara menindaklanjuti selisih yaa,prosedur_stok,prosedur_stok_09,latih,template_tim_entitas_dari_data_retail
+bisa tolong kode PROD-161870 stoknya tinggal berapa nih,cek_stok,cek_stok_08,latih,template_tim_entitas_dari_data_retail
+sisa PROD-148304 berapa,cek_stok,cek_stok_23,latih,template_tim_entitas_dari_data_retail
+min gmn cara upload file kasir pintar min,prosedur_stok,prosedur_stok_48,latih,template_tim_entitas_dari_data_retail
+status hitung ulang PROD-124440 gimana tolong,status_selisih,status_selisih_25,latih,template_tim_entitas_dari_data_retail
+mba kpn tahun baru imlek,di_luar_konteks,di_luar_konteks_32,latih,template_tim_entitas_dari_data_retail
+mba cara menghitung pjaak penjualan please,di_luar_konteks,di_luar_konteks_42,latih,template_tim_entitas_dari_data_retail
+"permisi, aktivitas apa saja yg ditolak spv nih",riwayat,riwayat_30,uji,template_tim_entitas_dari_data_retail
+tlg langkah memindahkan barang antar gudang,prosedur_stok,prosedur_stok_02,uji,template_tim_entitas_dari_data_retail
+"permisi, selisih PROD-104234 sudah divalidasi spv belum ya",status_selisih,status_selisih_10,uji,template_tim_entitas_dari_data_retail
+min siapa yang terakhir mengubah stok Junior Apparel Crew Tees Varied sekarang,riwayat,riwayat_00,latih,template_tim_entitas_dari_data_retail
+"halo, kenapa stok PROD-167784 beda dengan kasir pintar yaa",status_selisih,status_selisih_31,latih,template_tim_entitas_dari_data_retail
+tolong tolong tampilkan stok FKS-SOCEGMXG4JPEFDVC per gdg please,cek_stok,cek_stok_29,latih,template_tim_entitas_dari_data_retail
+barang apa yang perlu direstok di gudang a nih,cek_stok,cek_stok_36,latih,template_tim_entitas_dari_data_retail
+bang buat jadwal belajar bahasa inggris sekarang,di_luar_konteks,di_luar_konteks_56,latih,template_tim_entitas_dari_data_retail
+siapa yang terakhir menyesuaikan stk PROD-170535 thx,riwayat,riwayat_28,latih,template_tim_entitas_dari_data_retail
+kak lihat jumlah Femme Footwear Trailblazer Vareid yg ada di gudang?,cek_stok,cek_stok_38,uji,template_tim_entitas_dari_data_retail
+coba bagaimana alur menangani selisih barang,prosedur_stok,prosedur_stok_14,latih,template_tim_entitas_dari_data_retail
+kamu siapa tolnog,di_luar_konteks,di_luar_konteks_22,uji,template_tim_entitas_dari_data_retail
+bisa tolong stok Scholar Footwear Flight Clsasic di semua gudang berapa nih,cek_stok,cek_stok_28,uji,template_tim_entitas_dari_data_retail
+aktivitas stfaf di gudang b tadi apa aja,riwayat,riwayat_43,latih,template_tim_entitas_dari_data_retail
+kak kenapa aktivitas saya berstatus diajukan ya,prosedur_stok,prosedur_stok_31,latih,template_tim_entitas_dari_data_retail
+"halo, daftar barang yang tidak ditemukan di berkas kasir pintar min",status_selisih,status_selisih_32,latih,template_tim_entitas_dari_data_retail
+coba daftar barang yang tidak ditemukan di berkas kasir pintar,status_selisih,status_selisih_32,latih,template_tim_entitas_dari_data_retail
+bang ceritakan lelucon lucu tolong,di_luar_konteks,di_luar_konteks_07,latih,template_tim_entitas_dari_data_retail
+ada barang yang jumlahnya beda dengan ksair pintar gan,status_selisih,status_selisih_18,latih,template_tim_entitas_dari_data_retail
+cek sisa stok semua brg Femme Footwear Boot Collection tolong,cek_stok,cek_stok_40,latih,template_tim_entitas_dari_data_retail
+bang cek ketresediaan FKS-SOCEGGMEN3VUAKTK tolong,cek_stok,cek_stok_20,latih,template_tim_entitas_dari_data_retail
+tlg stok PROD-164929 Gudang A ada berapa thx,cek_stok,cek_stok_12,latih,template_tim_entitas_dari_data_retail
+coba ada berapa slsh yang maish terbuka?,status_selisih,status_selisih_23,latih,template_tim_entitas_dari_data_retail
+tolong apa yang harus saya lakukan kalau salah input jumlah please,prosedur_stok,prosedur_stok_43,uji,template_tim_entitas_dari_data_retail
+woi daftar selisih yang menunggu validasi min,status_selisih,status_selisih_04,latih,template_tim_entitas_dari_data_retail
+"permisi, apakah slsh Mayor Men's Ankle Length Socks udah selesai nih",status_selisih,status_selisih_06,latih,template_tim_entitas_dari_data_retail
+coba gmn cara jualan di tiktok sekarang,di_luar_konteks,di_luar_konteks_66,latih,template_tim_entitas_dari_data_retail
+woi kpn hari libur nasional berikutnya tlg,di_luar_konteks,di_luar_konteks_55,latih,template_tim_entitas_dari_data_retail
+lagu populer minggu ini please,di_luar_konteks,di_luar_konteks_36,latih,template_tim_entitas_dari_data_retail
+cuaca hari ini gmn tolong,di_luar_konteks,di_luar_konteks_00,latih,template_tim_entitas_dari_data_retail
+min brg apa yg stknya tipis di gdg C nih,cek_stok,cek_stok_48,latih,template_tim_entitas_dari_data_retail
+ada berapa unit Mayor Men's Crew Length Socks di gdg C,cek_stok,cek_stok_07,latih,template_tim_entitas_dari_data_retail
+"permisi, riwayat retur Scholar Footwear Court Casual Trident",riwayat,riwayat_13,latih,template_tim_entitas_dari_data_retail
+"halo, Junior Apparel Outer Shells Varied ada selisihnya gak tolong",status_selisih,status_selisih_24,latih,template_tim_entitas_dari_data_retail
+tlg catat penjualan hari ini?,di_luar_konteks,di_luar_konteks_41,latih,template_tim_entitas_dari_data_retail
+bisa tolong berapa omzet penjualan bulan ini,di_luar_konteks,di_luar_konteks_10,latih,template_tim_entitas_dari_data_retail
+woi gimana cara mencatat retur dr pelanggan,prosedur_stok,prosedur_stok_24,latih,template_tim_entitas_dari_data_retail
+woi bagaimana cara input stok fisik,prosedur_stok,prosedur_stok_03,latih,template_tim_entitas_dari_data_retail
+tips diet sehat ya,di_luar_konteks,di_luar_konteks_30,latih,template_tim_entitas_dari_data_retail
+bang barang apa saja yang stoknya menipis di Gudang B dong,cek_stok,cek_stok_06,uji,template_tim_entitas_dari_data_retail
+mba rwiayat PROD-170510 dong gan,riwayat,riwayat_40,latih,template_tim_entitas_dari_data_retail
+min cek stk PROD-151404 dong yaa,cek_stok,cek_stok_46,uji,template_tim_entitas_dari_data_retail
+mba siapa pemenang piala dunia terakhir tolong,di_luar_konteks,di_luar_konteks_11,latih,template_tim_entitas_dari_data_retail
+"permisi, kamu siapa gan",di_luar_konteks,di_luar_konteks_22,uji,template_tim_entitas_dari_data_retail
+"halo, total stok Junior Apparel Crop Pants Zephyr di semua gudang yaa",cek_stok,cek_stok_09,latih,template_tim_entitas_dari_data_retail
+kpn PROD-163268 terakhir dicek thx,riwayat,riwayat_09,latih,template_tim_entitas_dari_data_retail
+cara membuat logo toko thx,di_luar_konteks,di_luar_konteks_57,latih,template_tim_entitas_dari_data_retail
+jadwal bioskop mlaam ini ya,di_luar_konteks,di_luar_konteks_05,latih,template_tim_entitas_dari_data_retail
+woi slsh Scholar Footwear Flight Classic Zephyr gmn statsunya gan,status_selisih,status_selisih_41,latih,template_tim_entitas_dari_data_retail
+kak apa kabar hari ini ya,di_luar_konteks,di_luar_konteks_21,latih,template_tim_entitas_dari_data_retail
+bisa tolong cara bikin penyesuaian stk gmn dong,prosedur_stok,prosedur_stok_45,uji,template_tim_entitas_dari_data_retail
+woi lihat perubahan stok PROD-169470 bulan lalu min,riwayat,riwayat_14,uji,template_tim_entitas_dari_data_retail
+"permisi, selisih PROD-164929 sudah divalidasi spv belum thx",status_selisih,status_selisih_10,uji,template_tim_entitas_dari_data_retail
+coba tolong ringkas berita hari ini,di_luar_konteks,di_luar_konteks_39,latih,template_tim_entitas_dari_data_retail
+mba tampilkan commit terakhir untuk Femme Footwear Court Casual Zephyr gan,riwayat,riwayat_19,uji,template_tim_entitas_dari_data_retail
+"permisi, kpn PROD-181844 treakhir dicek",riwayat,riwayat_09,latih,template_tim_entitas_dari_data_retail
+kak cara menambah brg baru ke daftar,prosedur_stok,prosedur_stok_28,latih,template_tim_entitas_dari_data_retail
+"halo, toatl stok SUNPLEON Men's Mid-calf Length Socks di semua gudang",cek_stok,cek_stok_09,latih,template_tim_entitas_dari_data_retail
+kak cara ngitung stk fisik gmn yaa,prosedur_stok,prosedur_stok_49,latih,template_tim_entitas_dari_data_retail
+tampilkan semua selisih yang belum selesai nih,status_selisih,status_selisih_11,latih,template_tim_entitas_dari_data_retail
+coba siapa yg menyetujui aktivitas FKS-SOCEJAC9BYVSNPTP,riwayat,riwayat_18,latih,template_tim_entitas_dari_data_retail
+kak riwayat aktivitas PROD-175389 minggu ini sekarang,riwayat,riwayat_02,uji,template_tim_entitas_dari_data_retail
+bisa tolong gmn kalau berkas kasir pintar salah format gan,prosedur_stok,prosedur_stok_32,uji,template_tim_entitas_dari_data_retail
+woi selisih stok Femme Footwear Boot Collection Plushfoot di Gudang B berapa,status_selisih,status_selisih_08,latih,template_tim_entitas_dari_data_retail
+woi apa yang dimaksud minmium stok,prosedur_stok,prosedur_stok_21,latih,template_tim_entitas_dari_data_retail
+mba apa arti sttaus selesai pada selisih?,prosedur_stok,prosedur_stok_41,latih,template_tim_entitas_dari_data_retail
+tlg cara membuat logo toko please,di_luar_konteks,di_luar_konteks_57,latih,template_tim_entitas_dari_data_retail
+barang mana yang selisihnya paling besar please,status_selisih,status_selisih_28,latih,template_tim_entitas_dari_data_retail
+gmn cara catat brg masuk yaa,prosedur_stok,prosedur_stok_44,latih,template_tim_entitas_dari_data_retail
+coba bagaimana cara membuka cabang baru ya,di_luar_konteks,di_luar_konteks_31,uji,template_tim_entitas_dari_data_retail
+"halo, format berkas kasir pintar yang benar seperti apa",prosedur_stok,prosedur_stok_07,latih,template_tim_entitas_dari_data_retail
+selsiih PROD-165563 sudah divalidasi spv belum please,status_selisih,status_selisih_10,uji,template_tim_entitas_dari_data_retail
+siapa yang mencatat barang keluar PROD-145803?,riwayat,riwayat_07,latih,template_tim_entitas_dari_data_retail
+coba cek apakah FKS-SOCEJPT5ZR5ADJA5 cocok dengan kasir nih,status_selisih,status_selisih_37,latih,template_tim_entitas_dari_data_retail
+"halo, siapa pemilik toko pesaing min",di_luar_konteks,di_luar_konteks_60,latih,template_tim_entitas_dari_data_retail
+mba apa arti status selesai pada selisih,prosedur_stok,prosedur_stok_41,latih,template_tim_entitas_dari_data_retail
+min selisih kategori Junior Apparel Crew Tees berapa banyak,status_selisih,status_selisih_33,latih,template_tim_entitas_dari_data_retail
+kak apakah selisih Mayor Men's Crew Length Socks sudah selesai dong,status_selisih,status_selisih_06,latih,template_tim_entitas_dari_data_retail
+tlg bagaimana cara mengisi hasil hitung fsiik gan,prosedur_stok,prosedur_stok_39,latih,template_tim_entitas_dari_data_retail
+mba catatan retur PROD-154448,riwayat,riwayat_36,latih,template_tim_entitas_dari_data_retail
+siapa yang mencatat barang keluar PROD-146002 nih,riwayat,riwayat_07,latih,template_tim_entitas_dari_data_retail
+tlg stok fisik Scholar Footwear Trailblazer Equilibrium sm dgn cattaan gak yaa,status_selisih,status_selisih_36,latih,template_tim_entitas_dari_data_retail
+cek apakah PROD-184460 cocok dengan kasir?,status_selisih,status_selisih_37,latih,template_tim_entitas_dari_data_retail
+woi ada selisih baru di gdg A gak gan,status_selisih,status_selisih_12,uji,template_tim_entitas_dari_data_retail
+coba barang apa saja yang stoknya tidak cocok dengan kasir pintar min,status_selisih,status_selisih_09,latih,template_tim_entitas_dari_data_retail
+woi cara memperbaiki laptop yang lambat min,di_luar_konteks,di_luar_konteks_25,latih,template_tim_entitas_dari_data_retail
+tolnog rekomen resto enak dong min,di_luar_konteks,di_luar_konteks_68,latih,template_tim_entitas_dari_data_retail
+min catatan perpindahan Scholar Footwear Boot Collection Plushfoot antar gudang sekarang,riwayat,riwayat_04,latih,template_tim_entitas_dari_data_retail
+bisa tolong jumlah selisih yang sudah selesai ada berapa,status_selisih,status_selisih_21,latih,template_tim_entitas_dari_data_retail
+bang lht riwayat Femme Footwear Retro Legend Summit di gudang a?,riwayat,riwayat_46,latih,template_tim_entitas_dari_data_retail
+mba riwayat aktivitas PROD-157534 minggu ini,riwayat,riwayat_02,uji,template_tim_entitas_dari_data_retail
+tips menata etalsae toko dong,di_luar_konteks,di_luar_konteks_51,latih,template_tim_entitas_dari_data_retail
+cara ganti password gmn thx,prosedur_stok,prosedur_stok_51,latih,template_tim_entitas_dari_data_retail
+bisa tolong stk PROD-170888 kok beda sm kasir pintar,status_selisih,status_selisih_45,latih,template_tim_entitas_dari_data_retail
+aktivitas apa saja yang ditolak spv min,riwayat,riwayat_30,uji,template_tim_entitas_dari_data_retail
+bang aktivitas terakhir Junior Apparel Crop Pants di gdg C,riwayat,riwayat_35,latih,template_tim_entitas_dari_data_retail
+"permisi, cuaca hr ini gmn sekarang",di_luar_konteks,di_luar_konteks_63,latih,template_tim_entitas_dari_data_retail
+bisa tolong tolong catat penjualan hari ini,di_luar_konteks,di_luar_konteks_41,latih,template_tim_entitas_dari_data_retail
+bang catatan retur PROD-168858 nih,riwayat,riwayat_36,latih,template_tim_entitas_dari_data_retail
+mba cara memasang aplikasi kasir di toko baru nih,di_luar_konteks,di_luar_konteks_48,latih,template_tim_entitas_dari_data_retail
+woi siapa yg input brg masuk PROD-171024 nih,riwayat,riwayat_44,latih,template_tim_entitas_dari_data_retail
+bang bagaimana cara mencatat barang masuk,prosedur_stok,prosedur_stok_00,latih,template_tim_entitas_dari_data_retail
+tolong history stok PROD-168535 yaa,riwayat,riwayat_10,latih,template_tim_entitas_dari_data_retail
+tolong apa fungsi menu riwayat min,prosedur_stok,prosedur_stok_27,uji,template_tim_entitas_dari_data_retail
+"permisi, gudang mana yang stok PROD-159671 paling sedikit",cek_stok,cek_stok_35,latih,template_tim_entitas_dari_data_retail
+tlg selisih di gdg B sudah beres belum yaa,status_selisih,status_selisih_17,latih,template_tim_entitas_dari_data_retail
+"permisi, brg keluar kok gk bisa lebih dr stk knp dong",prosedur_stok,prosedur_stok_46,uji,template_tim_entitas_dari_data_retail
+min apa itu penyesuaian stok?,prosedur_stok,prosedur_stok_04,uji,template_tim_entitas_dari_data_retail
+info stok PROD-162196 di gdg A,cek_stok,cek_stok_10,latih,template_tim_entitas_dari_data_retail
+tolong brp kali Texlon Men's Ankle Length Socks keluar dr gdg A bulan ini yaa,riwayat,riwayat_37,latih,template_tim_entitas_dari_data_retail
+"halo, stk Junior Apparel Denim Classics Varied brp",cek_stok,cek_stok_41,latih,template_tim_entitas_dari_data_retail
+bang catatan penyesuaian di gdg A ya,riwayat,riwayat_21,latih,template_tim_entitas_dari_data_retail
+tlg info stok PROD-106598 di Gudang A ya,cek_stok,cek_stok_10,latih,template_tim_entitas_dari_data_retail
+tolong kapan terakhir Scholar Foowtear Retro Legend Summit keluar dari gdg C please,riwayat,riwayat_03,latih,template_tim_entitas_dari_data_retail
+bang cara ganti password gmn ya,prosedur_stok,prosedur_stok_51,latih,template_tim_entitas_dari_data_retail
+coba jam brp toko sebelah buka min,di_luar_konteks,di_luar_konteks_70,uji,template_tim_entitas_dari_data_retail
+min berapa jumlah penduduk indonesia gan,di_luar_konteks,di_luar_konteks_35,latih,template_tim_entitas_dari_data_retail
+"kak siapa yang memindahkan Pumpkin Patch Baby Girl's, Baby Boy's Self Design Crew Length Socks ke Gudang B dong",riwayat,riwayat_12,latih,template_tim_entitas_dari_data_retail
+apa yang terjadi kalau barang keluar melebihi stok dong,prosedur_stok,prosedur_stok_34,latih,template_tim_entitas_dari_data_retail
+brp harga sepatu di tokopedia nih,di_luar_konteks,di_luar_konteks_40,latih,template_tim_entitas_dari_data_retail
+woi berapa sisa stok Junior Apparel Cozy Trousers Varied,cek_stok,cek_stok_01,latih,template_tim_entitas_dari_data_retail
+min riwayat PROD-170878 dong thx,riwayat,riwayat_40,latih,template_tim_entitas_dari_data_retail
+apakah selisih Camey Men's Quarter Length Socks #5M4D3 sudah selesai ya,status_selisih,status_selisih_06,latih,template_tim_entitas_dari_data_retail
+mba apa arti status diajukan diterima dan ditolak nih,prosedur_stok,prosedur_stok_11,latih,template_tim_entitas_dari_data_retail
+woi apa arti status selesai pada selisih yaa,prosedur_stok,prosedur_stok_41,latih,template_tim_entitas_dari_data_retail
+tolong lihat siapa yang mengubah PROD-190490 hari ini ya,riwayat,riwayat_34,latih,template_tim_entitas_dari_data_retail
+kak kenapa barang keluar tidak bisa melebihi stok,prosedur_stok,prosedur_stok_13,uji,template_tim_entitas_dari_data_retail
+min tampilkan riwayat Femme Footwear Court Casual Trident di gdg A min,riwayat,riwayat_01,latih,template_tim_entitas_dari_data_retail
+coba bagaimana cara membuat website,di_luar_konteks,di_luar_konteks_12,latih,template_tim_entitas_dari_data_retail
+mba catatan penyesuaian di gdg B please,riwayat,riwayat_21,latih,template_tim_entitas_dari_data_retail
+apa itu stok terverifikasi min,prosedur_stok,prosedur_stok_36,latih,template_tim_entitas_dari_data_retail
+woi berapa kurs dolar hari ini tolong,di_luar_konteks,di_luar_konteks_03,uji,template_tim_entitas_dari_data_retail
+bang gudang mana yang stok PROD-145803 paling sedikit?,cek_stok,cek_stok_35,latih,template_tim_entitas_dari_data_retail
+mba selisih mana yang statusnya sedang dicek ulang di gdg C ya,status_selisih,status_selisih_38,uji,template_tim_entitas_dari_data_retail
+coba kapan stok fisik harus dihitung thx,prosedur_stok,prosedur_stok_30,latih,template_tim_entitas_dari_data_retail
+bang apa yg terjadi kalau brg keluar melebihi stk nih,prosedur_stok,prosedur_stok_34,latih,template_tim_entitas_dari_data_retail
+coba daftar brg yg gk ditemukan di berkas kasir pintar thx,status_selisih,status_selisih_32,latih,template_tim_entitas_dari_data_retail
+"permisi, bagaimana cara mengunggah berkas kasir pintar ya",prosedur_stok,prosedur_stok_06,latih,template_tim_entitas_dari_data_retail
+tlg buatkan puisi tentang hujan dong,di_luar_konteks,di_luar_konteks_02,latih,template_tim_entitas_dari_data_retail
+stk FKS-SOCEGHH8ZDCZYSKX di gdg c aman gk yaa,cek_stok,cek_stok_44,uji,template_tim_entitas_dari_data_retail
+"halo, barang mana yang stoknya di bawah minimum",cek_stok,cek_stok_21,latih,template_tim_entitas_dari_data_retail
+tlg langkah membuat penyesuaian stok dong,prosedur_stok,prosedur_stok_25,latih,template_tim_entitas_dari_data_retail
+min kapan terakhir Scholar Footwear Modern Legend Summit keluar dari gdg B gan,riwayat,riwayat_03,latih,template_tim_entitas_dari_data_retail
+woi history brg PROD-160856 gmn tolong,riwayat,riwayat_42,latih,template_tim_entitas_dari_data_retail
+coba bagaimana cara membuat website gan,di_luar_konteks,di_luar_konteks_12,latih,template_tim_entitas_dari_data_retail
+bang lihat perubahan stk PROD-170526 bulan lalu tlg,riwayat,riwayat_14,uji,template_tim_entitas_dari_data_retail
+"halo, apa yg harus saya lakukan kalau salah input jumlah yaa",prosedur_stok,prosedur_stok_43,uji,template_tim_entitas_dari_data_retail
+siapa presiden indonesia sekarang yaa,di_luar_konteks,di_luar_konteks_01,latih,template_tim_entitas_dari_data_retail
+woi siapa yang mencatat barnag keluar PROD-181848 please,riwayat,riwayat_07,latih,template_tim_entitas_dari_data_retail
+bisa tolong berapa harga sepatu di toko sebelah dong,di_luar_konteks,di_luar_konteks_16,latih,template_tim_entitas_dari_data_retail
+tolong langkah memindahkan barang antar gudang sekarang,prosedur_stok,prosedur_stok_02,uji,template_tim_entitas_dari_data_retail
+min berapa ongkos kirim ke jakarta min,di_luar_konteks,di_luar_konteks_58,latih,template_tim_entitas_dari_data_retail
+bang bagaimana cara membuat akun staff dong,prosedur_stok,prosedur_stok_29,latih,template_tim_entitas_dari_data_retail
+kak stok PROD-168793 di Gudang C ckuup gak,cek_stok,cek_stok_32,latih,template_tim_entitas_dari_data_retail
+kenapa barang keluar tidak bisa melebihi stok gan,prosedur_stok,prosedur_stok_13,uji,template_tim_entitas_dari_data_retail
+woi apa fungsi menu riwayat yaa,prosedur_stok,prosedur_stok_27,uji,template_tim_entitas_dari_data_retail
+tolong siapa yg input barang masuk Junior Apparel Outer Shells Varied min,riwayat,riwayat_22,latih,template_tim_entitas_dari_data_retail
+min ada barang yg jumlahnya beda dgn kasir pintar yaa,status_selisih,status_selisih_18,latih,template_tim_entitas_dari_data_retail
+bang riwayat Scholar Footwear Court Casual di Gudang C?,riwayat,riwayat_17,uji,template_tim_entitas_dari_data_retail
+"halo, cek ketersediaan PROD-100358",cek_stok,cek_stok_20,latih,template_tim_entitas_dari_data_retail
+"halo, barang apa yang stoknya kosong sekarang",cek_stok,cek_stok_30,latih,template_tim_entitas_dari_data_retail
+gmn cara jualan di tiktok,di_luar_konteks,di_luar_konteks_66,latih,template_tim_entitas_dari_data_retail
+woi bagaimana cara mengekspor laporan thx,prosedur_stok,prosedur_stok_37,latih,template_tim_entitas_dari_data_retail
+siapa yang boleh menerima atau menolak aktivitas staff yaa,prosedur_stok,prosedur_stok_10,latih,template_tim_entitas_dari_data_retail
+coba Scholar Footwear Modern Legend Summit msh ada gk thx,cek_stok,cek_stok_43,latih,template_tim_entitas_dari_data_retail
+tolong Mayor Men's Mid-calf Length Socks abis gk di gudang a please,cek_stok,cek_stok_47,latih,template_tim_entitas_dari_data_retail
+woi masih ada stk Junior Apparel Crew Tees Varied gk gan,cek_stok,cek_stok_16,uji,template_tim_entitas_dari_data_retail
+ada stok Femme Footwear Trailblazer Swift Run atau sudah habis thx,cek_stok,cek_stok_31,latih,template_tim_entitas_dari_data_retail
+"halo, stok fisik Mode Men's Floral Print Crew Length Socks #QKHV2 sama dengan catatan gak gan",status_selisih,status_selisih_36,latih,template_tim_entitas_dari_data_retail
+kak sipaa yg terakhir ubah stk Mode Men's Floral Print Crew Length Socks #Z7QQP please,riwayat,riwayat_39,latih,template_tim_entitas_dari_data_retail
+coba gmn cara membuat akun staff tolong,prosedur_stok,prosedur_stok_29,latih,template_tim_entitas_dari_data_retail
+bisa tlg selisih mana yang statusnya seadng dicek ulang di gdg b thx,status_selisih,status_selisih_38,uji,template_tim_entitas_dari_data_retail
+bang slsh brg PROD-160694 udh dicek ulang blm sekarang,status_selisih,status_selisih_43,latih,template_tim_entitas_dari_data_retail
+ada berapa selisih yang belum dicek thx,status_selisih,status_selisih_02,latih,template_tim_entitas_dari_data_retail
+mba gmn cara upload file kasir pintar,prosedur_stok,prosedur_stok_48,latih,template_tim_entitas_dari_data_retail
+kak killys Men's Solid No Show Socks #TSGBT ada selisihnya gak,status_selisih,status_selisih_24,latih,template_tim_entitas_dari_data_retail
+tlg aktivitas terakhir Junior Apparel Light Sehlls di gdg b gan,riwayat,riwayat_35,latih,template_tim_entitas_dari_data_retail
+tlg kapan PROD-168536 terakhir keluar please,riwayat,riwayat_23,latih,template_tim_entitas_dari_data_retail
+tlg kapan Scholar Footwear Modern Legend Summit terakhir diterima di gudang c please,riwayat,riwayat_31,latih,template_tim_entitas_dari_data_retail
+min lihat jumlah Junior Apparel Printed Tees Varied yg ada di gdg skrg,cek_stok,cek_stok_38,uji,template_tim_entitas_dari_data_retail
+tlg cek ketresediaan PROD-168534,cek_stok,cek_stok_20,latih,template_tim_entitas_dari_data_retail
+siapa yg input barang masuk Junior Apparel Crop Pants Zephyr,riwayat,riwayat_22,latih,template_tim_entitas_dari_data_retail
+tlg cek slsh Scholar Footwear Hardcourt Zephyr dong dong,status_selisih,status_selisih_47,latih,template_tim_entitas_dari_data_retail
+min barang apa yang perlu direstok di gudang a,cek_stok,cek_stok_36,latih,template_tim_entitas_dari_data_retail
+"permisi, bagaimana cara melihat riwayat barang?",prosedur_stok,prosedur_stok_23,latih,template_tim_entitas_dari_data_retail
+masih ada stok Femme Footwear Trailblazer Zephyr gak,cek_stok,cek_stok_16,uji,template_tim_entitas_dari_data_retail
+bang apa yang terjadi kalau barang keluar melebihi stok ya,prosedur_stok,prosedur_stok_34,latih,template_tim_entitas_dari_data_retail
+apa bedanya diajukan sm diterima thx,prosedur_stok,prosedur_stok_50,latih,template_tim_entitas_dari_data_retail
+bisa tolong ada selisih baru di Gudang B gak nih,status_selisih,status_selisih_12,uji,template_tim_entitas_dari_data_retail
+bagaimana cara logout?,prosedur_stok,prosedur_stok_42,uji,template_tim_entitas_dari_data_retail
+bang selisih apa yg masih menunggu hitung ulang,status_selisih,status_selisih_29,latih,template_tim_entitas_dari_data_retail
+brp ongkos kirim ke jakarta,di_luar_konteks,di_luar_konteks_58,latih,template_tim_entitas_dari_data_retail
+tlg lihat perubahan stok FKS-SOCEGGVYBTZPKXVP bulan lalu dong,riwayat,riwayat_14,uji,template_tim_entitas_dari_data_retail
+tolong baagimana cara logout gan,prosedur_stok,prosedur_stok_42,uji,template_tim_entitas_dari_data_retail
+ada berapa selisih yang belum dicek gan,status_selisih,status_selisih_02,latih,template_tim_entitas_dari_data_retail
+coba berapa total keuntungan minggu ini dong,di_luar_konteks,di_luar_konteks_19,latih,template_tim_entitas_dari_data_retail
+mba berapa banyak Femme Footwear Boot Collection yang ada di Gudang B thx,cek_stok,cek_stok_19,latih,template_tim_entitas_dari_data_retail
+tinggal berapa Junior Apparel Cozy Trousers Family Line di gudang b,cek_stok,cek_stok_27,latih,template_tim_entitas_dari_data_retail
+"halo, bagaimana cara mencatat barang masuk",prosedur_stok,prosedur_stok_00,latih,template_tim_entitas_dari_data_retail
+woi selisih Scholar Footwear Trainer yang masih terbuka apa saja nih,status_selisih,status_selisih_15,latih,template_tim_entitas_dari_data_retail
+kak siapa yang boleh menghapus barang dong,prosedur_stok,prosedur_stok_40,latih,template_tim_entitas_dari_data_retail
+bang riwayat retur Scholar Footwear Boot Collection Plushfoot min,riwayat,riwayat_13,latih,template_tim_entitas_dari_data_retail
+min kapan hari libur nasional berikutnya nih,di_luar_konteks,di_luar_konteks_55,latih,template_tim_entitas_dari_data_retail
+mba rkeomen resto enak dong,di_luar_konteks,di_luar_konteks_68,latih,template_tim_entitas_dari_data_retail
+woi stk Mayor Men's Mid-calf Length Socks brp,cek_stok,cek_stok_41,latih,template_tim_entitas_dari_data_retail
+woi tinggal berapa Femme Footwear Retro Legend Summit di gdg C please,cek_stok,cek_stok_27,latih,template_tim_entitas_dari_data_retail
+gmn cara catat brg masuk thx,prosedur_stok,prosedur_stok_44,latih,template_tim_entitas_dari_data_retail
+siapa yg terakhir ubah stk Femme Footwear Boot Collection Plushfoot tolong,riwayat,riwayat_39,latih,template_tim_entitas_dari_data_retail
+"permisi, kpaan tahun baru imlek",di_luar_konteks,di_luar_konteks_32,latih,template_tim_entitas_dari_data_retail
+tolong cek stk PROD-181848 dong gan,cek_stok,cek_stok_46,uji,template_tim_entitas_dari_data_retail
+"halo, jadwal bioskop malam ini",di_luar_konteks,di_luar_konteks_05,latih,template_tim_entitas_dari_data_retail
+tampilkan comimt terakhir untuk Camey Men's Quarter Length Socks #5M4D3 please,riwayat,riwayat_19,uji,template_tim_entitas_dari_data_retail
+woi apa itu stok terverifikasi,prosedur_stok,prosedur_stok_36,latih,template_tim_entitas_dari_data_retail
+tolong selisih Junior Apparel Denim Classics Varied di gdg A sudah ditindaklanjuti blm dong,status_selisih,status_selisih_26,uji,template_tim_entitas_dari_data_retail
+min braang apa yang stoknya kosong,cek_stok,cek_stok_30,latih,template_tim_entitas_dari_data_retail
+woi selisih PROD-188459 sudah beres belum tolong,status_selisih,status_selisih_22,latih,template_tim_entitas_dari_data_retail
+jejak perubahan stok PROD-166362?,riwayat,riwayat_20,uji,template_tim_entitas_dari_data_retail
+"permisi, apakah selisih FKS-SOCEGGMEN3VUAKTK sudah selesai?",status_selisih,status_selisih_34,uji,template_tim_entitas_dari_data_retail
+mba stk Scholar Footwear Retro Legend Summit brp?,cek_stok,cek_stok_41,latih,template_tim_entitas_dari_data_retail
+bang gmn cara catat brg masuk dong,prosedur_stok,prosedur_stok_44,latih,template_tim_entitas_dari_data_retail
+berapa sisa stok Junior Apparel Light Shells Varied gan,cek_stok,cek_stok_01,latih,template_tim_entitas_dari_data_retail
+"halo, riwayat aktiviats PROD-160149 minggu ini",riwayat,riwayat_02,uji,template_tim_entitas_dari_data_retail
+bagaimana cara menghitung ulang stok fisik di gudang tolong,prosedur_stok,prosedur_stok_12,latih,template_tim_entitas_dari_data_retail
+woi yg ditolak spv apa aja thx,riwayat,riwayat_45,latih,template_tim_entitas_dari_data_retail
+kak ceritakan lelucon lucu min,di_luar_konteks,di_luar_konteks_07,latih,template_tim_entitas_dari_data_retail
+"permisi, apa itu stok terverifikasi",prosedur_stok,prosedur_stok_36,latih,template_tim_entitas_dari_data_retail
+mba tlg hitung 125 dikali 8 please,di_luar_konteks,di_luar_konteks_20,latih,template_tim_entitas_dari_data_retail
+"halo, stk Jnuior Apparel Crew Tees Varied brp skrg",cek_stok,cek_stok_41,latih,template_tim_entitas_dari_data_retail
+min berapa ongkos kirim ke jakarta,di_luar_konteks,di_luar_konteks_58,latih,template_tim_entitas_dari_data_retail
+bagaimana cara melihat riwayat barang tolong,prosedur_stok,prosedur_stok_23,latih,template_tim_entitas_dari_data_retail
+woi riwaayt aktivitas PROD-168802 minggu ini,riwayat,riwayat_02,uji,template_tim_entitas_dari_data_retail
+kapan terakhir ada barang masuk di gdg A sekarang,riwayat,riwayat_16,uji,template_tim_entitas_dari_data_retail
+kak bagaimana cara menghitung ulang stok fisik di gudang ya,prosedur_stok,prosedur_stok_12,latih,template_tim_entitas_dari_data_retail
+kapan saya harus membuat penyesuaian stok,prosedur_stok,prosedur_stok_05,latih,template_tim_entitas_dari_data_retail
+bisa tolong berapa selisih kasir pintar untuk Femme Footwear Court Casual Zephyr gan,status_selisih,status_selisih_30,latih,template_tim_entitas_dari_data_retail
+"halo, gudang mana yang stok Junior Apparel Miscellany Varied paling banyak gan",cek_stok,cek_stok_34,latih,template_tim_entitas_dari_data_retail
+tloong kapan FKS-SOCEGHEYK3GZHHEP terakhir dicek,riwayat,riwayat_09,latih,template_tim_entitas_dari_data_retail
+tolong bagaimana status selisih Scholar Footwear Boot Collection Woodland?,status_selisih,status_selisih_01,uji,template_tim_entitas_dari_data_retail
+min tolong ringkas berita hari ini tolong,di_luar_konteks,di_luar_konteks_39,latih,template_tim_entitas_dari_data_retail
+min slsh di gudang b yang bleum selesai ada berapa please,status_selisih,status_selisih_35,latih,template_tim_entitas_dari_data_retail
+"permisi, cara menambah barang baru ke daftar",prosedur_stok,prosedur_stok_28,latih,template_tim_entitas_dari_data_retail
+bang selsiih mana yang perlu saya validasi thx,status_selisih,status_selisih_20,latih,template_tim_entitas_dari_data_retail
+woi apa yg harus dilakukan kalau atkivitas saya ditolak spv gan,prosedur_stok,prosedur_stok_08,latih,template_tim_entitas_dari_data_retail
+min brp stk PROD-166362 di gdg b thx,cek_stok,cek_stok_42,latih,template_tim_entitas_dari_data_retail
+tolong apa bedanya stok sistem dan stok fisik,prosedur_stok,prosedur_stok_15,latih,template_tim_entitas_dari_data_retail
+woi info stok PROD-175389 di gudang b gan,cek_stok,cek_stok_10,latih,template_tim_entitas_dari_data_retail
+min slsh Scholar Footwear Modern Legend Summit gmn statusnya tolong,status_selisih,status_selisih_41,latih,template_tim_entitas_dari_data_retail
+riwayat retur Mode Men's Floral Print Crew Length Socks #JGVYU tolong,riwayat,riwayat_13,latih,template_tim_entitas_dari_data_retail
+woi stok PROD-168863 Gudang A ada berapa,cek_stok,cek_stok_12,latih,template_tim_entitas_dari_data_retail
+bagaimana cara membuat iklan di instagram,di_luar_konteks,di_luar_konteks_62,latih,template_tim_entitas_dari_data_retail
+gmn cara jualan di tiktok yaa,di_luar_konteks,di_luar_konteks_66,latih,template_tim_entitas_dari_data_retail
+"permisi, apakah riwayat aktivitas bisa dihapus gan",prosedur_stok,prosedur_stok_18,latih,template_tim_entitas_dari_data_retail

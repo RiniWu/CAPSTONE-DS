@@ -1,0 +1,29 @@
+dataset,aspek,pemeriksaan,jumlah,dari,persen,dampak,penanganan
+sales,kelengkapan,Reason of Return kosong,125751,125751,100.0,Kolom tidak berguna,Kolom dibuang
+sales,keunikan,Sales Channel bernilai tunggal,125751,125751,100.0,Tidak informatif,Kolom dibuang
+sales,validitas,Qty Sold negatif (retur),7491,125751,5.96,Bisa salah dibaca sebagai barang keluar negatif,Diubah menjadi jenis 'retur' dengan qty positif
+sales,validitas,Qty Sold = 0,2,125751,0.0,Transaksi tanpa pergerakan stok,Baris dibuang
+sales,konsistensi,Is Return tidak sejalan dengan tanda Qty,0,125751,0.0,Salah klasifikasi,Diperiksa; tidak ada tindakan bila 0
+sales,keunikan,Baris duplikat penuh,0,125751,0.0,Penjualan terhitung ganda,Dibuang bila ada
+sales,konsistensi,Kode PROD- di Product Description berbeda dengan Product No,125751,125751,100.0,Identitas barang ganda/membingungkan,Kode di deskripsi dibuang dari nama barang
+sales,integritas,Pasangan produk-toko penjualan tanpa baris inventory,2588,50447,5.13,Stok awal tidak diketahui,Stok awal diestimasi dari rekonsiliasi
+sales,kepatuhan plan,"Kolom keuangan (Sales Amount, Cogs) tersedia",125751,125751,100.0,Plan melarang analisis keuangan/transaksi,Kolom keuangan tidak dipakai dan tidak diekspor
+inventory,validitas,Qty on hand negatif,1380,284755,0.48,Stok tidak mungkin negatif; indikasi salah input,"Dikoreksi menjadi 0, nilai asli disimpan (qty_mentah)"
+inventory,validitas,Qty on hand = 0,13869,284755,4.87,Baris tanpa stok,Dipertahankan sebagai stok 0
+inventory,validitas,Harga jual atau biaya <= 0,13894,284755,4.88,Harga tidak bisa dipakai,"Diubah menjadi kosong, harga diambil dari baris lain"
+inventory,validitas,Biaya >= harga jual pada baris berstok,9682,284755,3.4,Melanggar aturan template (beli < jual),"Harga beli diimputasi dari rasio median kategori, ditandai"
+inventory,konsistensi,End Date bernilai penanda 9999-12-31,22701,284755,7.97,Tanggal palsu bila dibaca langsung,"Dianggap snapshot aktif, tanggal akhir dikosongkan"
+inventory,validitas,Start Date lebih besar dari End Date,0,284755,0.0,Periode tidak masuk akal,Tidak ada bila 0
+inventory,konsistensi,Produk dengan lebih dari satu harga jual,1542,2326,66.29,Harga master ambigu (efek promo/markdown),Harga master = median status Full Price
+inventory,konsistensi,Kode PROD- di Product Description berbeda dengan Product No,284755,284755,100.0,Identitas barang ganda,Dibuang dari nama barang
+inventory,keunikan,Baris duplikat penuh,0,284755,0.0,Stok terhitung ganda,Dibuang bila ada
+flipkart,kelengkapan,retail_price kosong,78,20000,0.39,Harga tidak dipakai di proyek ini,Tidak dipakai
+flipkart,kelengkapan,brand kosong,5864,20000,29.32,Tidak dipakai,Tidak dipakai
+flipkart,kelengkapan,image kosong,3,20000,0.02,Tidak ada gambar,Baris dikeluarkan dari kolam acuan
+flipkart,keunikan,pid duplikat,2,20000,0.01,Produk ganda,"Dihapus, sisakan satu"
+flipkart,keunikan,product_name duplikat,7324,20000,36.62,Nama sama untuk varian berbeda,Dibiarkan; pid menjadi identitas
+flipkart,validitas,product_name lebih dari 80 karakter,412,20000,2.06,Melebihi batas template,Nama Flipkart tidak dipakai sebagai nama barang
+flipkart,relevansi,Kategori bukan alas kaki/pakaian anak,18031,20000,90.16,Tidak relevan dengan data retail,Kolam acuan dibatasi per kelompok kategori
+flipkart,relevansi,Pencarian 'sock' menangkap produk non-kaos kaki (mis. Phone Socket Holder),28,61,45.9,Produk bukan kaos kaki ikut terpilih,Pencocokan kata utuh (socks) pada nama produk
+lintas dataset,relevansi,Tema retail: sepatu dan pakaian anak (bukan kaos kaki),2326,2326,100.0,Domain berbeda dari Akutusocks,Ditulis sebagai keterbatasan di README
+lintas dataset,integritas,Flipkart tidak punya kunci ke retail,20000,20000,100.0,Tidak bisa digabung dengan join,"Dipasangkan per kelompok kategori, diberi label 'acuan acak'"

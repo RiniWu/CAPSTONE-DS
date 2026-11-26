@@ -1,0 +1,18 @@
+kolom_target,sumber,aturan
+data_kode_barang,retail_inventory/sales: Product No,dipakai apa adanya
+data_nama_barang,retail_inventory: Product Description,nama segmen + kode segmen; kode PROD- dibuang; maks 80
+kategori,retail_inventory: Product Category,27 kategori; divisi disimpan di kategori_barang.divisi
+data_harga_beli,retail_inventory: Stock Unit Cost Price,median status Full Price; harga <=0 dibuang; beli>=jual diimputasi; dikali 1000 (ASUMSI mata uang)
+data_harga_jual,retail_inventory: Stock Unit Selling Price,median status Full Price; dikali 1000 (ASUMSI)
+data_stok,retail_inventory: Qty on hand,jumlah snapshot aktif (End Date 9999-12-31) semua toko; negatif dijadikan 0 (kecuali berkas Kasir: stok mentah)
+minimum_stok,retail_sales: Qty Sold (turunan),"ceil(penjualan mingguan x 2), dibatasi 3..50"
+tipe_diskon / diskon,retail_inventory: Stock Status + rasio harga,persen; hanya bila >=50% stok aktif berstatus markdown
+berat_dan_satuan / berat,flipkart: product_specifications,gram; hanya alas kaki bernilai wajar; selain itu kosong
+gambar,flipkart: image,URL pertama; dipasangkan ACAK per kelompok kategori; tautan 2016 mungkin sudah tidak aktif
+keterangan,flipkart: description,150 karakter awal + label 'Data contoh'
+letak_rak,(sintetis),dibuat dari gudang + kategori + angka acak
+data_barang_jasa / data_show_toko,(konstanta),0 / 0
+kaos kaki (33 produk),"flipkart: product_name, retail_price, discounted_price, image, description",produk ASLI Flipkart (kata utuh 'socks'); harga INR x 190 (ASUMSI); beli diimputasi; diskon dari harga diskon asli; STOK & PENJUALAN SINTETIS
+gudang,retail: Store (40 toko),"dikelompokkan menjadi 3 gudang, seimbang menurut total stok"
+riwayat_aktivitas,retail_sales,"Qty positif -> keluar; Qty negatif -> retur (masuk); saldo awal, penerimaan, penyesuaian diestimasi agar berujung di snapshot"
+pengguna,(sintetis),7 akun fiktif @contoh.test
